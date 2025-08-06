@@ -29,6 +29,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull origin main
           git add README.md
-          git commit -m "자동 업데이트: 서울 날씨 정보 갱신" || echo "No changes to commit"
+          git commit -m "자동 업데이트: 포켓몬 정보 갱신" || echo "No changes to commit"
           git push
-          
