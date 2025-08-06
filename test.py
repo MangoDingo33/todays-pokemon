@@ -34,16 +34,19 @@ def get_pokemon_info(pokemon_id):
         shiny_url = data['sprites']['front_shiny']
 
         info = (
-            f"# {name_en} (ID: {id_})\n"
-            f"**한국어 이름:** {name_ko if name_ko else '정보 없음'}\n\n"
+            f"# {name_ko if name_ko else '정보 없음'} (ID: {id_})\n"
+            f"**영어 이름:** {name_en}\n\n"
             f"**타입:** {types}\n\n"
             f"**키:** {height} m\n\n"
             f"**몸무게:** {weight} kg\n\n"
             f"**특성:** {abilities}\n\n"
-            f"## 이미지\n"
-            f"- **[공식 일러스트]** ![]({artwork_url})\n"
-            f"- **[도트]** ![]({dot_url})"
-            f"- **[이로치]** ![]({shiny_url})\n"
+            f"## **[공식 일러스트]** \n"
+            f"![]({artwork_url})\n"
+            f"##\n"
+            f"| 도트 | 이로치 |\n"
+            f"|:----:|:------:|\n"
+            f"| <img src=\"{dot_url}\" width=\"200\"> | <img src=\"{shiny_url}\" width=\"200\"> |\n"
+            f"\n"
         )
         return info
     else:
@@ -57,12 +60,16 @@ def update_readme():
     now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
     now_str = now_kst.strftime("%Y-%m-%d %H:%M:%S")
 
-    readme_content = f"""{pokemon_info}
+    readme_content = f"""
+⏳ 업데이트 시간: {now_str} (KST) ⏳
 
-⏳ 업데이트 시간: {now_str} (KST)
+🤖 자동 업데이트 봇에 의해 관리됩니다. 🤖
 
 ---
-자동 업데이트 봇에 의해 관리됩니다.
+
+
+{pokemon_info}
+---
 """
     with open(README_PATH, "w", encoding="utf-8") as file:
         file.write(readme_content)
