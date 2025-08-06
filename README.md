@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-06 16:49:39 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-06 16:57:16 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 맘박쥐 (ID: 528)
-**영어 이름:** Swoobat
+# 마기아나 (ID: 801)
+**영어 이름:** Magearna
 
-**타입:** 에스퍼, 비행
+**타입:** 강철, 페어리
 
-**키:** 0.9 m
+**키:** 1.0 m
 
-**몸무게:** 10.5 kg
+**몸무게:** 80.5 kg
 
-**특성:** 천진, 서투름, 단순
+**특성:** 소울하트
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/swoobat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swoobat.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/magearna.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/magearna.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/801.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/801.ogg)
 
 
 ---
