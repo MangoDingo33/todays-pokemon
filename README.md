@@ -1,28 +1,26 @@
 
-⏳ 업데이트 시간: 2025-08-06 11:10:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-06 11:16:12 (KST) ⏳
 
-🤖 자동 업데이트 봇에 의해 관리됩니다. 🤖
+🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
+# 블루 (ID: 209)
+**영어 이름:** Snubbull
 
-# 크레세리아 (ID: 488)
-**영어 이름:** Cresselia
+**타입:** 페어리
 
-**타입:** psychic
+**키:** 0.6 m
 
-**키:** 1.5 m
+**몸무게:** 7.8 kg
 
-**몸무게:** 85.6 kg
+**특성:** 위협, 도주, 주눅
 
-**특성:** levitate
-
-## **[공식 일러스트]** 
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png)
-##
+## **공식 일러스트** 
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png)
 | 도트 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/488.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/209.png" width="200"> |
 
 
 ---
