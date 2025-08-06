@@ -5,14 +5,15 @@ on:
     - cron: "*/5 * * * *"  # 5분마다 실행 (UTC 기준)
   workflow_dispatch:
 
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: 리포지토리 체크아웃
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Python 설치
         uses: actions/setup-python@v3
         with:
           python-version: "3.x"
@@ -22,12 +23,12 @@ jobs:
           pip install requests
           python todays_pokemon.py
 
-      - name: Commit and push changes
+      - name: 변경 사항 커밋 및 푸시
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull origin main
           git add README.md
-          git commit -m "자동 업데이트: 오늘의 포켓몬 정보 갱신" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git commit -m "자동 업데이트: 서울 날씨 정보 갱신" || echo "No changes to commit"
           git push
+          
