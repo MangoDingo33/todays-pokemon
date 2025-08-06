@@ -3,9 +3,10 @@ from datetime import datetime, timedelta
 
 README_PATH = "README.md"
 
-def get_pokemon_info_for_readme(name):
-    url = f'https://pokeapi.co/api/v2/pokemon/{name.lower()}'
+def get_pokemon_info(pokemon_id):
+    url = f'https://pokeapi.co/api/v2/pokemon/{pokemon_id}'
     response = requests.get(url)
+
     if response.status_code == 200:
         data = response.json()
         name = data['name'].title()
@@ -14,7 +15,6 @@ def get_pokemon_info_for_readme(name):
         height = data['height'] / 10  # m 단위 변환
         weight = data['weight'] / 10  # kg 단위 변환
         abilities = ", ".join([a['ability']['name'] for a in data['abilities']])
-        # 이미지 링크
         artwork_url = data['sprites']['other']['official-artwork']['front_default']
         dot_url = data['sprites']['front_default']
         shiny_url = data['sprites']['front_shiny']
@@ -35,10 +35,10 @@ def get_pokemon_info_for_readme(name):
         return "포켓몬 정보를 불러오지 못했습니다."
 
 def update_readme():
-    """README.md 파일을 업데이트 (포켓몬 정보만 기록)"""
-    pokemon_info = get_pokemon_info_for_readme('ditto')
+    """README.md 파일을 업데이트 (숫자 아이디로 포켓몬 정보)"""
+    pokemon_id = 1025  # 숫자 ID로 지정 (ditto)
+    pokemon_info = get_pokemon_info(pokemon_id)
 
-    # 현재(UTC+9, 한국시간) 표시
     now_utc = datetime.utcnow()
     now_kst = now_utc + timedelta(hours=9)
     now_str = now_kst.strftime("%Y-%m-%d %H:%M:%S")
@@ -50,7 +50,6 @@ def update_readme():
 ---
 자동 업데이트 봇에 의해 관리됩니다.
 """
-
     with open(README_PATH, "w", encoding="utf-8") as file:
         file.write(readme_content)
 
