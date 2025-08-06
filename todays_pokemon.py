@@ -107,16 +107,16 @@ def get_pokemon_info(pokemon_id):
         f"![]({artwork_url})\n"
         f"| 기본 | 이로치 |\n"
         f"|:----:|:------:|\n"
-        f"| <img src=\"{dot_gif}\" width=\"235\"> | <img src=\"{shiny_gif}\" width=\"235\"> |\n\n"
+        f"| <img src=\"{dot_gif}\" width=\"200\"> | <img src=\"{shiny_gif}\" width=\"200\"> |\n\n"
 
     )
 
     if latest_cry:
         info += (
         f"**울음소리:**<br>"
-        f"<audio controls src=\"{latest_cry}\"></audio><br>"
-        f"[울음소리 재생 링크]({latest_cry})\n\n"
+        f"<audio controls src=\"{latest_cry}\"></audio><br> [링크(다운로드 될 수도)]({latest_cry})\n\n"
     )
+
 
     return info
 
