@@ -29,6 +29,5 @@ jobs:
           git pull origin main
           git add README.md
           git commit -m "자동 업데이트: 오늘의 포켓몬 정보 갱신" || echo "No changes to commit"
-          # push 권한 문제 시 아래 git remote set-url 추가 필요
-          # git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
