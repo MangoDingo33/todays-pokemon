@@ -1,0 +1,32 @@
+name: Update Pokemon in README
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # 2시간마다 실행(UTC 기준)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 리포지토리 체크아웃
+        uses: actions/checkout@v3
+
+      - name: Python 설치
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: 오늘의 포켓몬 자동 업데이트
+        run: |
+          pip install requests
+          python todays_pokemon.py
+
+      - name: 변경 사항 커밋 및 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main
+          git add README.md
+          git commit -m "자동 업데이트: 오늘의 포켓몬 정보 갱신" || echo "No changes to commit"
+          git push
