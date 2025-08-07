@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-07 23:45:59 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-07 23:58:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 마임꽁꽁 (ID: 866)
-**영어 이름:** Mr-Rime
+# 과사삭벌레 (ID: 840)
+**영어 이름:** Applin
 
-**타입:** 얼음, 에스퍼
+**타입:** 풀, 드래곤
 
-**키:** 1.5 m
+**키:** 0.2 m
 
-**몸무게:** 58.2 kg
+**몸무게:** 0.5 kg
 
-**특성:** 갈지자걸음, 배리어프리, 아이스바디
+**특성:** 숙성, 먹보, 방탄
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/866.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/applin.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/applin.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/866.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/866.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/840.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/840.ogg)
 
 
 ---
