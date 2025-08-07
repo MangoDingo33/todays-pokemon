@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-07 20:59:00 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-07 21:45:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 더스트나 (ID: 569)
-**영어 이름:** Garbodor
+# 로즈레이드 (ID: 407)
+**영어 이름:** Roserade
 
-**타입:** 독
+**타입:** 풀, 독
 
-**키:** 1.9 m
+**키:** 0.9 m
 
-**몸무게:** 107.3 kg
+**몸무게:** 14.5 kg
 
-**특성:** 악취, 깨어진갑옷, 유폭
+**특성:** 자연회복, 독가시, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/garbodor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/garbodor.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/roserade.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/roserade.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/569.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/569.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/407.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/407.ogg)
 
 
 ---
