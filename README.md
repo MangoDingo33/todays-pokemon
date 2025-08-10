@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-10 14:50:54 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-10 14:57:14 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 얼루기 (ID: 327)
-**영어 이름:** Spinda
+# 히포포타스 (ID: 449)
+**영어 이름:** Hippopotas
 
-**타입:** 노말
+**타입:** 땅
 
-**키:** 1.1 m
+**키:** 0.8 m
 
-**몸무게:** 5.0 kg
+**몸무게:** 49.5 kg
 
-**특성:** 마이페이스, 갈지자걸음, 심술꾸러기
+**특성:** 모래날림, 모래의힘
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/spinda.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/spinda.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/hippopotas.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hippopotas.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/327.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/327.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/449.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/449.ogg)
 
 
 ---
