@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-11 20:19:45 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-11 20:32:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 아머까오 (ID: 823)
-**영어 이름:** Corviknight
+# 키키링 (ID: 981)
+**영어 이름:** Farigiraf
 
-**타입:** 비행, 강철
+**타입:** 노말, 에스퍼
 
-**키:** 2.2 m
+**키:** 3.2 m
 
-**몸무게:** 75.0 kg
+**몸무게:** 160.0 kg
 
-**특성:** 프레셔, 긴장감, 미러아머
+**특성:** cud-chew, armor-tail, 초식
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/corviknight.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/corviknight.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/farigiraf.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/farigiraf.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/823.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/823.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/981.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/981.ogg)
 
 
 ---
