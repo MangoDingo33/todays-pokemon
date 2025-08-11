@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-11 17:54:16 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-11 18:15:03 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 코고미 (ID: 613)
-**영어 이름:** Cubchoo
+# 님피아 (ID: 700)
+**영어 이름:** Sylveon
 
-**타입:** 얼음
+**타입:** 페어리
 
-**키:** 0.5 m
+**키:** 1.0 m
 
-**몸무게:** 8.5 kg
+**몸무게:** 23.5 kg
 
-**특성:** 눈숨기, 눈치우기, 주눅
+**특성:** 헤롱헤롱바디, 페어리스킨
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/cubchoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cubchoo.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sylveon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sylveon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/613.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/613.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg)
 
 
 ---
