@@ -1,0 +1,33 @@
+name: Update test.json
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" 
+  workflow_dispatch:
+
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 리포지토리 체크아웃
+        uses: actions/checkout@v3
+
+      - name: Python 설치
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Run test_.py
+        run: |
+          pip install requests
+          python test_.py
+
+      - name: 변경 사항 커밋 및 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main
+          git add ./tmp/test.json
+          git commit -m "자동 업데이트" || echo "No changes to commit"
+          git push
