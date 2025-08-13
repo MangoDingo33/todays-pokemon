@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-14 00:45:20 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-14 00:51:35 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 그랑블루 (ID: 210)
-**영어 이름:** Granbull
+# 파이어로 (ID: 663)
+**영어 이름:** Talonflame
 
-**타입:** 페어리
+**타입:** 불꽃, 비행
 
-**키:** 1.4 m
+**키:** 1.2 m
 
-**몸무게:** 48.7 kg
+**몸무게:** 24.5 kg
 
-**특성:** 위협, 속보, 주눅
+**특성:** 불꽃몸, 질풍날개
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/granbull.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/granbull.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/talonflame.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/talonflame.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/210.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/210.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/663.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/663.ogg)
 
 
 ---
