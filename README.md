@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-14 00:38:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-14 00:45:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 초라기 (ID: 170)
-**영어 이름:** Chinchou
+# 그랑블루 (ID: 210)
+**영어 이름:** Granbull
 
-**타입:** 물, 전기
+**타입:** 페어리
 
-**키:** 0.5 m
+**키:** 1.4 m
 
-**몸무게:** 12.0 kg
+**몸무게:** 48.7 kg
 
-**특성:** 축전, 발광, 저수
+**특성:** 위협, 속보, 주눅
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/chinchou.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/chinchou.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/granbull.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/granbull.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/210.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/210.ogg)
 
 
 ---
