@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-16 00:16:23 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-16 00:33:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 식스테일 (ID: 37)
-**영어 이름:** Vulpix
+# 할비롱 (ID: 780)
+**영어 이름:** Drampa
 
-**타입:** 불꽃
+**타입:** 노말, 드래곤
 
-**키:** 0.6 m
+**키:** 3.0 m
 
-**몸무게:** 9.9 kg
+**몸무게:** 185.0 kg
 
-**특성:** 타오르는불꽃, 가뭄
+**특성:** 발끈, 초식, 날씨부정
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/vulpix.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vulpix.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/drampa.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drampa.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/37.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/37.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/780.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/780.ogg)
 
 
 ---
