@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-15 19:52:20 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-15 19:58:52 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 우렁찬꼬리 (ID: 985)
-**영어 이름:** Scream-Tail
+# 무쇠독나방 (ID: 994)
+**영어 이름:** Iron-Moth
 
-**타입:** 페어리, 에스퍼
+**타입:** 불꽃, 독
 
 **키:** 1.2 m
 
-**몸무게:** 8.0 kg
+**몸무게:** 36.0 kg
 
-**특성:** protosynthesis
+**특성:** quark-drive
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/994.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/994.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/994.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/994.ogg)
 
 
 ---
