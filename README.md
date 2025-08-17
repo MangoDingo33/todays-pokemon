@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-17 15:58:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-17 16:17:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 석탄산 (ID: 839)
-**영어 이름:** Coalossal
+# 테라키온 (ID: 639)
+**영어 이름:** Terrakion
 
-**타입:** 바위, 불꽃
+**타입:** 바위, 격투
 
-**키:** 2.8 m
+**키:** 1.9 m
 
-**몸무게:** 310.5 kg
+**몸무게:** 260.0 kg
 
-**특성:** 증기기관, 불꽃몸, 타오르는불꽃
+**특성:** 정의의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/coalossal.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/coalossal.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/terrakion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/terrakion.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/839.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/839.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg)
 
 
 ---
