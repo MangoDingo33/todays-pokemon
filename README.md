@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-20 23:57:38 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-21 00:17:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 내루미 (ID: 108)
-**영어 이름:** Lickitung
+# 데스니칸 (ID: 563)
+**영어 이름:** Cofagrigus
 
-**타입:** 노말
+**타입:** 고스트
 
-**키:** 1.2 m
+**키:** 1.7 m
 
-**몸무게:** 65.5 kg
+**몸무게:** 76.5 kg
 
-**특성:** 마이페이스, 둔감, 날씨부정
+**특성:** 미라
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lickitung.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lickitung.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cofagrigus.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cofagrigus.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/563.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/563.ogg)
 
 
 ---
