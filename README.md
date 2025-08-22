@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-23 06:28:13 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-23 06:37:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 마휘핑 (ID: 869)
-**영어 이름:** Alcremie
+# 가비루사 (ID: 976)
+**영어 이름:** Veluza
 
-**타입:** 페어리
+**타입:** 물, 에스퍼
 
-**키:** 0.3 m
+**키:** 2.5 m
 
-**몸무게:** 0.5 kg
+**몸무게:** 90.0 kg
 
-**특성:** 스위트베일, 아로마베일
+**특성:** 틀깨기, sharpness
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/alcremie.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/alcremie.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/veluza.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/veluza.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/869.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/869.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/976.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/976.ogg)
 
 
 ---
