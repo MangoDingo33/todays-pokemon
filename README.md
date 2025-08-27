@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-27 19:57:43 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-27 20:13:17 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 우라오스 (ID: 892)
-**영어 이름:** Urshifu-Single-Strike
+# 카푸꼬꼬꼭 (ID: 785)
+**영어 이름:** Tapu-Koko
 
-**타입:** 격투, 악
+**타입:** 전기, 페어리
 
-**키:** 1.9 m
+**키:** 1.8 m
 
-**몸무게:** 105.0 kg
+**몸무게:** 20.5 kg
 
-**특성:** 보이지않는주먹
+**특성:** 일렉트릭메이커, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/892.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/892.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/892.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg)
 
 
 ---
