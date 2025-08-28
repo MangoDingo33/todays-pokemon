@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-28 19:33:31 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-28 19:45:19 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 삐삐 (ID: 35)
-**영어 이름:** Clefairy
+# 구구 (ID: 16)
+**영어 이름:** Pidgey
 
-**타입:** 페어리
+**타입:** 노말, 비행
 
-**키:** 0.6 m
+**키:** 0.3 m
 
-**몸무게:** 7.5 kg
+**몸무게:** 1.8 kg
 
-**특성:** 헤롱헤롱바디, 매직가드, 프렌드가드
+**특성:** 날카로운눈, 갈지자걸음, 부풀린가슴
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/clefairy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/clefairy.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pidgey.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pidgey.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/35.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/35.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg)
 
 
 ---
