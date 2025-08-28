@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-29 08:25:35 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-29 08:33:35 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 슬리프 (ID: 96)
-**영어 이름:** Drowzee
+# 야도란 (ID: 80)
+**영어 이름:** Slowbro
 
-**타입:** 에스퍼
+**타입:** 물, 에스퍼
 
-**키:** 1.0 m
+**키:** 1.6 m
 
-**몸무게:** 32.4 kg
+**몸무게:** 78.5 kg
 
-**특성:** 불면, 예지몽, 정신력
+**특성:** 둔감, 마이페이스, 재생력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/drowzee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drowzee.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/slowbro.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/slowbro.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/96.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/96.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/80.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/80.ogg)
 
 
 ---
