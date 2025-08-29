@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-29 18:44:24 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-29 18:50:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 날뛰는우레 (ID: 1021)
-**영어 이름:** Raging-Bolt
+# 샤크니아 (ID: 319)
+**영어 이름:** Sharpedo
 
-**타입:** 전기, 드래곤
+**타입:** 물, 악
 
-**키:** 5.2 m
+**키:** 1.8 m
 
-**몸무게:** 480.0 kg
+**몸무게:** 88.8 kg
 
-**특성:** protosynthesis
+**특성:** 까칠한피부, 가속
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1021.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sharpedo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sharpedo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1021.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1021.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/319.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/319.ogg)
 
 
 ---
