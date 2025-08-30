@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-08-31 06:25:57 (KST) ⏳
+⏳ 업데이트 시간: 2025-08-31 06:33:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 바다그다 (ID: 960)
-**영어 이름:** Wiglett
+# 세레비 (ID: 251)
+**영어 이름:** Celebi
 
-**타입:** 물
+**타입:** 에스퍼, 풀
 
-**키:** 1.2 m
+**키:** 0.6 m
 
-**몸무게:** 1.8 kg
+**몸무게:** 5.0 kg
 
-**특성:** 미끈미끈, 주눅, 모래숨기
+**특성:** 자연회복
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/wiglett.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wiglett.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/celebi.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/celebi.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/251.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/251.ogg)
 
 
 ---
