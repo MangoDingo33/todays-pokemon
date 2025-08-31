@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-01 01:59:58 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-01 02:16:30 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 기라티나 (ID: 487)
-**영어 이름:** Giratina-Altered
+# 데인차 (ID: 854)
+**영어 이름:** Sinistea
 
-**타입:** 고스트, 드래곤
+**타입:** 고스트
 
-**키:** 4.5 m
+**키:** 0.1 m
 
-**몸무게:** 750.0 kg
+**몸무게:** 0.2 kg
 
-**특성:** 프레셔, 텔레파시
+**특성:** 깨어진갑옷, 저주받은바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/487.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sinistea.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sinistea.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/487.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/487.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/854.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/854.ogg)
 
 
 ---
