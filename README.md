@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-01 01:36:03 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-01 01:46:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 플라베베 (ID: 669)
-**영어 이름:** Flabebe
+# 동탁군 (ID: 437)
+**영어 이름:** Bronzong
 
-**타입:** 페어리
+**타입:** 강철, 에스퍼
 
-**키:** 0.1 m
+**키:** 1.3 m
 
-**몸무게:** 0.1 kg
+**몸무게:** 187.0 kg
 
-**특성:** 플라워베일, 공생
+**특성:** 부유, 내열, 헤비메탈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/flabebe.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/flabebe.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/bronzong.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bronzong.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/437.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/437.ogg)
 
 
 ---
