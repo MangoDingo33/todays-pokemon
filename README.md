@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-01 03:49:39 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-01 03:55:58 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 헬가 (ID: 229)
-**영어 이름:** Houndoom
+# 너트령 (ID: 598)
+**영어 이름:** Ferrothorn
 
-**타입:** 악, 불꽃
+**타입:** 풀, 강철
 
-**키:** 1.4 m
+**키:** 1.0 m
 
-**몸무게:** 35.0 kg
+**몸무게:** 110.0 kg
 
-**특성:** 일찍기상, 타오르는불꽃, 긴장감
+**특성:** 철가시, 위험예지
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/houndoom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/houndoom.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/ferrothorn.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ferrothorn.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/229.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/229.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg)
 
 
 ---
