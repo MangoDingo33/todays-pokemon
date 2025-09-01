@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-01 17:43:47 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-01 17:55:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 보만다 (ID: 373)
-**영어 이름:** Salamence
+# 자루도 (ID: 893)
+**영어 이름:** Zarude
 
-**타입:** 드래곤, 비행
+**타입:** 악, 풀
 
-**키:** 1.5 m
+**키:** 1.8 m
 
-**몸무게:** 102.6 kg
+**몸무게:** 70.0 kg
 
-**특성:** 위협, 자기과신
+**특성:** 리프가드
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/salamence.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/salamence.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/zarude.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zarude.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/373.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/373.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/893.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/893.ogg)
 
 
 ---
