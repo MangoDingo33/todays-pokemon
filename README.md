@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-02 14:57:08 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-02 15:23:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 조로아크 (ID: 571)
-**영어 이름:** Zoroark
+# 크레세리아 (ID: 488)
+**영어 이름:** Cresselia
 
-**타입:** 악
+**타입:** 에스퍼
 
-**키:** 1.6 m
+**키:** 1.5 m
 
-**몸무게:** 81.1 kg
+**몸무게:** 85.6 kg
 
-**특성:** 일루전
+**특성:** 부유
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/zoroark.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zoroark.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cresselia.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cresselia.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/571.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/571.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/488.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/488.ogg)
 
 
 ---
