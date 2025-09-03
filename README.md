@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-03 08:58:09 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-03 10:14:18 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 칠색조 (ID: 250)
-**영어 이름:** Ho-Oh
+# 리피아 (ID: 470)
+**영어 이름:** Leafeon
 
-**타입:** 불꽃, 비행
+**타입:** 풀
 
-**키:** 3.8 m
+**키:** 1.0 m
 
-**몸무게:** 199.0 kg
+**몸무게:** 25.5 kg
 
-**특성:** 프레셔, 재생력
+**특성:** 리프가드, 엽록소
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ho-oh.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/leafeon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/leafeon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/250.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/250.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/470.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/470.ogg)
 
 
 ---
