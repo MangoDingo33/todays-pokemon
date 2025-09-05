@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-05 23:50:27 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-05 23:56:55 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 두트리오 (ID: 85)
-**영어 이름:** Dodrio
+# 타입:널 (ID: 772)
+**영어 이름:** Type-Null
 
-**타입:** 노말, 비행
+**타입:** 노말
 
-**키:** 1.8 m
+**키:** 1.9 m
 
-**몸무게:** 85.2 kg
+**몸무게:** 120.5 kg
 
-**특성:** 도주, 일찍기상, 갈지자걸음
+**특성:** 전투무장
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dodrio.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dodrio.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/772.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/85.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/85.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/772.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/772.ogg)
 
 
 ---
