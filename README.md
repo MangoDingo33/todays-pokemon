@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-07 02:43:59 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-07 02:50:42 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 플라제스 (ID: 671)
-**영어 이름:** Florges
+# 사랑동이 (ID: 370)
+**영어 이름:** Luvdisc
 
-**타입:** 페어리
+**타입:** 물
 
-**키:** 1.1 m
+**키:** 0.6 m
 
-**몸무게:** 10.0 kg
+**몸무게:** 8.7 kg
 
-**특성:** 플라워베일, 공생
+**특성:** 쓱쓱, 촉촉바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/florges.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/florges.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/luvdisc.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/luvdisc.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/671.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/671.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/370.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/370.ogg)
 
 
 ---
