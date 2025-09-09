@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-09 19:54:57 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-09 20:08:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 프레프티르 (ID: 683)
-**영어 이름:** Aromatisse
+# 아라리 (ID: 102)
+**영어 이름:** Exeggcute
 
-**타입:** 페어리
+**타입:** 풀, 에스퍼
 
-**키:** 0.8 m
+**키:** 0.4 m
 
-**몸무게:** 15.5 kg
+**몸무게:** 2.5 kg
 
-**특성:** 치유의마음, 아로마베일
+**특성:** 엽록소, 수확
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/aromatisse.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/aromatisse.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/exeggcute.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/exeggcute.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/683.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/683.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/102.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/102.ogg)
 
 
 ---
