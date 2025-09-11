@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-12 06:33:55 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-12 06:40:19 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 몽얌나 (ID: 518)
-**영어 이름:** Musharna
+# 미끄네일 (ID: 705)
+**영어 이름:** Sliggoo
 
-**타입:** 에스퍼
+**타입:** 드래곤
 
-**키:** 1.1 m
+**키:** 0.8 m
 
-**몸무게:** 60.5 kg
+**몸무게:** 17.5 kg
 
-**특성:** 예지몽, 싱크로, 텔레파시
+**특성:** 초식, 촉촉바디, 미끈미끈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/musharna.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/musharna.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sliggoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sliggoo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/518.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/518.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg)
 
 
 ---
