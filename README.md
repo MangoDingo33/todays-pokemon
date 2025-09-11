@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-11 23:11:56 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-11 23:31:27 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 브리무음 (ID: 858)
-**영어 이름:** Hatterene
+# 망키 (ID: 56)
+**영어 이름:** Mankey
 
-**타입:** 에스퍼, 페어리
+**타입:** 격투
 
-**키:** 2.1 m
+**키:** 0.5 m
 
-**몸무게:** 5.1 kg
+**몸무게:** 28.0 kg
 
-**특성:** 치유의마음, 위험예지, 매직미러
+**특성:** 의기양양, 분노의경혈, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/hatterene.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hatterene.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/mankey.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mankey.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/858.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/858.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/56.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/56.ogg)
 
 
 ---
