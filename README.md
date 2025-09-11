@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-12 01:53:10 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-12 01:59:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 묘두기 (ID: 972)
-**영어 이름:** Houndstone
+# 킹크랩 (ID: 99)
+**영어 이름:** Kingler
 
-**타입:** 고스트
+**타입:** 물
 
-**키:** 2.0 m
+**키:** 1.3 m
 
-**몸무게:** 15.0 kg
+**몸무게:** 60.0 kg
 
-**특성:** 모래헤치기, 복슬복슬
+**특성:** 괴력집게, 조가비갑옷, 우격다짐
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/houndstone.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/houndstone.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/kingler.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kingler.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/99.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/99.ogg)
 
 
 ---
