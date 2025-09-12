@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-13 01:44:15 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-13 01:51:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 어둠대신 (ID: 353)
-**영어 이름:** Shuppet
+# 아보 (ID: 23)
+**영어 이름:** Ekans
 
-**타입:** 고스트
+**타입:** 독
 
-**키:** 0.6 m
+**키:** 2.0 m
 
-**몸무게:** 2.3 kg
+**몸무게:** 6.9 kg
 
-**특성:** 불면, 통찰, 저주받은바디
+**특성:** 위협, 탈피, 긴장감
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/shuppet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shuppet.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/ekans.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ekans.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/353.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/353.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/23.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/23.ogg)
 
 
 ---
