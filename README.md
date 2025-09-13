@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-13 19:40:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-13 19:47:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 깨비드릴조 (ID: 22)
-**영어 이름:** Fearow
+# 내루미 (ID: 108)
+**영어 이름:** Lickitung
 
-**타입:** 노말, 비행
+**타입:** 노말
 
 **키:** 1.2 m
 
-**몸무게:** 38.0 kg
+**몸무게:** 65.5 kg
 
-**특성:** 날카로운눈, 스나이퍼
+**특성:** 마이페이스, 둔감, 날씨부정
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/fearow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/fearow.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/lickitung.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lickitung.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/22.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/22.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg)
 
 
 ---
