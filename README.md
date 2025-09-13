@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-14 03:45:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-14 03:52:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 악비아르 (ID: 553)
-**영어 이름:** Krookodile
+# 루가루암 (ID: 745)
+**영어 이름:** Lycanroc-Midday
 
-**타입:** 땅, 악
+**타입:** 바위
 
-**키:** 1.5 m
+**키:** 0.8 m
 
-**몸무게:** 96.3 kg
+**몸무게:** 25.0 kg
 
-**특성:** 위협, 자기과신, 분노의경혈
+**특성:** 날카로운눈, 모래헤치기, 불굴의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/krookodile.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/krookodile.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/745.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/745.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/745.ogg)
 
 
 ---
