@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-16 02:14:14 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-16 02:29:08 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 스라크 (ID: 123)
-**영어 이름:** Scyther
+# 주리비얀 (ID: 495)
+**영어 이름:** Snivy
 
-**타입:** 벌레, 비행
+**타입:** 풀
 
-**키:** 1.5 m
+**키:** 0.6 m
 
-**몸무게:** 56.0 kg
+**몸무게:** 8.1 kg
 
-**특성:** 벌레의알림, 테크니션, 불굴의마음
+**특성:** 심록, 심술꾸러기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/scyther.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/scyther.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/snivy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/snivy.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/495.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/495.ogg)
 
 
 ---
