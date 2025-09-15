@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-15 20:16:37 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-15 20:27:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 카푸느지느 (ID: 788)
-**영어 이름:** Tapu-Fini
+# 테라키온 (ID: 639)
+**영어 이름:** Terrakion
 
-**타입:** 물, 페어리
+**타입:** 바위, 격투
 
-**키:** 1.3 m
+**키:** 1.9 m
 
-**몸무게:** 21.2 kg
+**몸무게:** 260.0 kg
 
-**특성:** 미스트메이커, 텔레파시
+**특성:** 정의의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/788.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/terrakion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/terrakion.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/788.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/788.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg)
 
 
 ---
