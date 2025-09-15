@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-16 04:00:48 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-16 04:17:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 깜지곰 (ID: 216)
-**영어 이름:** Teddiursa
+# 노보청 (ID: 534)
+**영어 이름:** Conkeldurr
 
-**타입:** 노말
+**타입:** 격투
 
-**키:** 0.6 m
+**키:** 1.4 m
 
-**몸무게:** 8.8 kg
+**몸무게:** 87.0 kg
 
-**특성:** 픽업, 속보, 꿀모으기
+**특성:** 근성, 우격다짐, 철주먹
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/teddiursa.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/teddiursa.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/conkeldurr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/conkeldurr.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/216.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/216.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/534.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/534.ogg)
 
 
 ---
