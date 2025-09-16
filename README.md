@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-16 18:59:08 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-16 19:19:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 별가사리 (ID: 120)
-**영어 이름:** Staryu
+# 저리더프 (ID: 604)
+**영어 이름:** Eelektross
 
-**타입:** 물
+**타입:** 전기
 
-**키:** 0.8 m
+**키:** 2.1 m
 
-**몸무게:** 34.5 kg
+**몸무게:** 80.5 kg
 
-**특성:** 발광, 자연회복, 애널라이즈
+**특성:** 부유
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/staryu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/staryu.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/eelektross.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/eelektross.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/604.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/604.ogg)
 
 
 ---
