@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-18 12:03:24 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-18 12:34:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 푸호꼬 (ID: 653)
-**영어 이름:** Fennekin
+# 시라소몬 (ID: 106)
+**영어 이름:** Hitmonlee
 
-**타입:** 불꽃
+**타입:** 격투
 
-**키:** 0.4 m
+**키:** 1.5 m
 
-**몸무게:** 9.4 kg
+**몸무게:** 49.8 kg
 
-**특성:** 맹화, 매지션
+**특성:** 유연, 이판사판, 곡예
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/fennekin.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/fennekin.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/hitmonlee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hitmonlee.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/653.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/653.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg)
 
 
 ---
