@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-18 22:14:56 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-18 22:36:38 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 노고치 (ID: 206)
-**영어 이름:** Dunsparce
+# 세비퍼 (ID: 336)
+**영어 이름:** Seviper
 
-**타입:** 노말
+**타입:** 독
 
-**키:** 1.5 m
+**키:** 2.7 m
 
-**몸무게:** 14.0 kg
+**몸무게:** 52.5 kg
 
-**특성:** 하늘의은총, 도주, 주눅
+**특성:** 탈피, 틈새포착
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dunsparce.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dunsparce.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/seviper.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/seviper.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/206.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/206.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/336.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/336.ogg)
 
 
 ---
