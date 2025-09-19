@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-19 23:10:38 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-19 23:31:17 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 헬가 (ID: 229)
-**영어 이름:** Houndoom
+# 니로우 (ID: 198)
+**영어 이름:** Murkrow
 
-**타입:** 악, 불꽃
+**타입:** 악, 비행
 
-**키:** 1.4 m
+**키:** 0.5 m
 
-**몸무게:** 35.0 kg
+**몸무게:** 2.1 kg
 
-**특성:** 일찍기상, 타오르는불꽃, 긴장감
+**특성:** 불면, 대운, 짓궂은마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/houndoom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/houndoom.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/murkrow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/murkrow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/229.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/229.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg)
 
 
 ---
