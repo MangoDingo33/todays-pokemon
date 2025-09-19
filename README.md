@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-19 18:19:42 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-19 18:33:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 해골몽 (ID: 355)
-**영어 이름:** Duskull
+# 버터플 (ID: 12)
+**영어 이름:** Butterfree
 
-**타입:** 고스트
+**타입:** 벌레, 비행
 
-**키:** 0.8 m
+**키:** 1.1 m
 
-**몸무게:** 15.0 kg
+**몸무게:** 32.0 kg
 
-**특성:** 부유, 통찰
+**특성:** 복안, 색안경
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/duskull.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/duskull.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/butterfree.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/butterfree.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/355.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/355.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/12.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/12.ogg)
 
 
 ---
