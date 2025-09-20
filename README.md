@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-20 23:42:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-20 23:48:40 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 두코 (ID: 188)
-**영어 이름:** Skiploom
+# 가로막구리 (ID: 862)
+**영어 이름:** Obstagoon
 
-**타입:** 풀, 비행
+**타입:** 악, 노말
 
-**키:** 0.6 m
+**키:** 1.6 m
 
-**몸무게:** 1.0 kg
+**몸무게:** 46.0 kg
 
-**특성:** 엽록소, 리프가드, 틈새포착
+**특성:** 이판사판, 근성, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/skiploom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/skiploom.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/obstagoon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/obstagoon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/862.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/862.ogg)
 
 
 ---
