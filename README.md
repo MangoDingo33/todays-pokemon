@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-21 14:55:37 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-21 15:15:53 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 빈티나 (ID: 349)
-**영어 이름:** Feebas
+# 파밀리쥐 (ID: 925)
+**영어 이름:** Maushold-Family-Of-Four
 
-**타입:** 물
+**타입:** 노말
 
-**키:** 0.6 m
+**키:** 0.3 m
 
-**몸무게:** 7.4 kg
+**몸무게:** 2.3 kg
 
-**특성:** 쓱쓱, 둔감, 적응력
+**특성:** 프렌드가드, 볼주머니, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/feebas.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/feebas.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/925.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/349.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/349.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg)
 
 
 ---
