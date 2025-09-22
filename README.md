@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-23 05:44:23 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-23 05:50:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 배우르 (ID: 832)
-**영어 이름:** Dubwool
+# 파라꼬 (ID: 821)
+**영어 이름:** Rookidee
 
-**타입:** 노말
+**타입:** 비행
 
-**키:** 1.3 m
+**키:** 0.2 m
 
-**몸무게:** 43.0 kg
+**몸무게:** 1.8 kg
 
-**특성:** 복슬복슬, 불굴의마음, 방탄
+**특성:** 날카로운눈, 긴장감, 부풀린가슴
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dubwool.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dubwool.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/rookidee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rookidee.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/832.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/832.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/821.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/821.ogg)
 
 
 ---
