@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-23 18:22:11 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-23 18:36:08 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 골비람 (ID: 622)
-**영어 이름:** Golett
+# 어지리더 (ID: 617)
+**영어 이름:** Accelgor
 
-**타입:** 땅, 고스트
+**타입:** 벌레
 
-**키:** 1.0 m
+**키:** 0.8 m
 
-**몸무게:** 92.0 kg
+**몸무게:** 25.3 kg
 
-**특성:** 철주먹, 서투름, 노가드
+**특성:** 촉촉바디, 점착, 곡예
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/golett.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/golett.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/accelgor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/accelgor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/622.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/622.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/617.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/617.ogg)
 
 
 ---
