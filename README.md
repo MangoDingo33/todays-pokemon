@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-26 08:14:32 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-26 08:27:16 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 쏘겨모 (ID: 860)
-**영어 이름:** Morgrem
+# 우렁찬꼬리 (ID: 985)
+**영어 이름:** Scream-Tail
 
-**타입:** 악, 페어리
+**타입:** 페어리, 에스퍼
 
-**키:** 0.8 m
+**키:** 1.2 m
 
-**몸무게:** 12.5 kg
+**몸무게:** 8.0 kg
 
-**특성:** 짓궂은마음, 통찰, 나쁜손버릇
+**특성:** protosynthesis
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/morgrem.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/morgrem.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/860.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/860.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg)
 
 
 ---
