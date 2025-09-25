@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-25 13:39:15 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-25 13:47:45 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 랄토스 (ID: 280)
-**영어 이름:** Ralts
+# 트리미앙 (ID: 676)
+**영어 이름:** Furfrou
 
-**타입:** 에스퍼, 페어리
+**타입:** 노말
 
-**키:** 0.4 m
+**키:** 1.2 m
 
-**몸무게:** 6.6 kg
+**몸무게:** 28.0 kg
 
-**특성:** 싱크로, 트레이스, 텔레파시
+**특성:** 퍼코트
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ralts.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ralts.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/furfrou.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/furfrou.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/280.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/280.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/676.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/676.ogg)
 
 
 ---
