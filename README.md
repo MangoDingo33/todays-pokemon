@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-25 08:56:04 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-25 09:57:08 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 래비풋 (ID: 814)
-**영어 이름:** Raboot
+# 노보청 (ID: 534)
+**영어 이름:** Conkeldurr
 
-**타입:** 불꽃
+**타입:** 격투
 
-**키:** 0.6 m
+**키:** 1.4 m
 
-**몸무게:** 9.0 kg
+**몸무게:** 87.0 kg
 
-**특성:** 맹화, 리베로
+**특성:** 근성, 우격다짐, 철주먹
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/raboot.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/raboot.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/conkeldurr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/conkeldurr.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/814.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/814.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/534.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/534.ogg)
 
 
 ---
