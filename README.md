@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 07:14:33 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 07:30:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 자시안 (ID: 888)
-**영어 이름:** Zacian
+# 루차불 (ID: 701)
+**영어 이름:** Hawlucha
 
-**타입:** 페어리
+**타입:** 격투, 비행
 
-**키:** 2.8 m
+**키:** 0.8 m
 
-**몸무게:** 110.0 kg
+**몸무게:** 21.5 kg
 
-**특성:** 불요의검
+**특성:** 유연, 곡예, 틀깨기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/zacian.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zacian.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/hawlucha.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hawlucha.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/888.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/888.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/701.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/701.ogg)
 
 
 ---
