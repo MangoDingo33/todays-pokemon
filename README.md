@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 07:52:28 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 07:59:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 백솜모카 (ID: 830)
-**영어 이름:** Eldegoss
+# 메테노 (ID: 774)
+**영어 이름:** Minior-Red-Meteor
 
-**타입:** 풀
+**타입:** 바위, 비행
 
-**키:** 0.5 m
+**키:** 0.3 m
 
-**몸무게:** 2.5 kg
+**몸무게:** 40.0 kg
 
-**특성:** 솜털, 재생력, 포자
+**특성:** 리밋실드
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/eldegoss.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/eldegoss.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/774.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/830.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/830.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/774.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/774.ogg)
 
 
 ---
