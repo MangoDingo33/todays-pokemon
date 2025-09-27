@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-28 02:55:26 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-28 03:13:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 니드퀸 (ID: 31)
-**영어 이름:** Nidoqueen
+# 나무지기 (ID: 252)
+**영어 이름:** Treecko
 
-**타입:** 독, 땅
+**타입:** 풀
 
-**키:** 1.3 m
+**키:** 0.5 m
 
-**몸무게:** 60.0 kg
+**몸무게:** 5.0 kg
 
-**특성:** 독가시, 투쟁심, 우격다짐
+**특성:** 심록, 곡예
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/nidoqueen.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/nidoqueen.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/treecko.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/treecko.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/31.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/31.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/252.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/252.ogg)
 
 
 ---
