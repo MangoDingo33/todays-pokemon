@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 12:44:15 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 12:50:34 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 마그마그 (ID: 218)
-**영어 이름:** Slugma
+# 앤티골 (ID: 631)
+**영어 이름:** Heatmor
 
 **타입:** 불꽃
 
-**키:** 0.7 m
+**키:** 1.4 m
 
-**몸무게:** 35.0 kg
+**몸무게:** 58.0 kg
 
-**특성:** 마그마의무장, 불꽃몸, 깨어진갑옷
+**특성:** 먹보, 타오르는불꽃, 하얀연기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/slugma.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/slugma.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/heatmor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/heatmor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/218.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/218.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/631.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/631.ogg)
 
 
 ---
