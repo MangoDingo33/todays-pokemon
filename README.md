@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 17:49:26 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 17:56:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 골뱃 (ID: 42)
-**영어 이름:** Golbat
+# 콩알뚜기 (ID: 919)
+**영어 이름:** Nymble
 
-**타입:** 독, 비행
+**타입:** 벌레
 
-**키:** 1.6 m
+**키:** 0.2 m
 
-**몸무게:** 55.0 kg
+**몸무게:** 1.0 kg
 
-**특성:** 정신력, 틈새포착
+**특성:** 벌레의알림, 색안경
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/golbat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/golbat.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/nymble.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/nymble.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/42.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/42.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/919.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/919.ogg)
 
 
 ---
