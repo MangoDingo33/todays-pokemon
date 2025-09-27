@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 20:48:20 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 20:54:45 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 돌핀맨 (ID: 964)
-**영어 이름:** Palafin-Zero
+# 테라키온 (ID: 639)
+**영어 이름:** Terrakion
 
-**타입:** 물
+**타입:** 바위, 격투
 
-**키:** 1.3 m
+**키:** 1.9 m
 
-**몸무게:** 60.2 kg
+**몸무게:** 260.0 kg
 
-**특성:** zero-to-hero, zero-to-hero
+**특성:** 정의의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/964.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/terrakion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/terrakion.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/964.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/964.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg)
 
 
 ---
