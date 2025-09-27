@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-28 08:14:56 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-28 08:26:18 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 토오 (ID: 980)
-**영어 이름:** Clodsire
+# 폴리곤Z (ID: 474)
+**영어 이름:** Porygon-Z
 
-**타입:** 독, 땅
+**타입:** 노말
 
-**키:** 1.8 m
+**키:** 0.9 m
 
-**몸무게:** 223.0 kg
+**몸무게:** 34.0 kg
 
-**특성:** 독가시, 저수, 천진
+**특성:** 적응력, 다운로드, 애널라이즈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/clodsire.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/clodsire.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/porygon-z.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/porygon-z.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/980.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/980.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/474.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/474.ogg)
 
 
 ---
