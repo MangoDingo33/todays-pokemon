@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-27 13:16:52 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-27 13:34:23 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 님피아 (ID: 700)
-**영어 이름:** Sylveon
+# 이어롭 (ID: 428)
+**영어 이름:** Lopunny
 
-**타입:** 페어리
+**타입:** 노말
 
-**키:** 1.0 m
+**키:** 1.2 m
 
-**몸무게:** 23.5 kg
+**몸무게:** 33.3 kg
 
-**특성:** 헤롱헤롱바디, 페어리스킨
+**특성:** 헤롱헤롱바디, 서투름, 유연
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/sylveon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sylveon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/lopunny.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lopunny.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/428.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/428.ogg)
 
 
 ---
