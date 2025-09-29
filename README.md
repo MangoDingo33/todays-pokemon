@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-30 06:25:48 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-30 06:33:45 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 레쿠쟈 (ID: 384)
-**영어 이름:** Rayquaza
+# 위유이 (ID: 1004)
+**영어 이름:** Chi-Yu
 
-**타입:** 드래곤, 비행
+**타입:** 악, 불꽃
 
-**키:** 7.0 m
+**키:** 0.4 m
 
-**몸무게:** 206.5 kg
+**몸무게:** 4.9 kg
 
-**특성:** 에어록
+**특성:** beads-of-ruin
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rayquaza.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1004.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/384.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/384.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1004.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1004.ogg)
 
 
 ---
