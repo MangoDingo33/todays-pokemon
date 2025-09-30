@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-09-30 22:07:08 (KST) ⏳
+⏳ 업데이트 시간: 2025-09-30 22:36:33 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 대코파스 (ID: 476)
-**영어 이름:** Probopass
+# 빈나두 (ID: 938)
+**영어 이름:** Tadbulb
 
-**타입:** 바위, 강철
+**타입:** 전기
 
-**키:** 1.4 m
+**키:** 0.3 m
 
-**몸무게:** 340.0 kg
+**몸무게:** 0.4 kg
 
-**특성:** 옹골참, 자력, 모래의힘
+**특성:** 마이페이스, 정전기, 습기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/probopass.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/probopass.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tadbulb.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tadbulb.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/476.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/476.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg)
 
 
 ---
