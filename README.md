@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-01 17:44:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-01 17:55:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 굽이치는물결 (ID: 1009)
-**영어 이름:** Walking-Wake
+# 니로우 (ID: 198)
+**영어 이름:** Murkrow
 
-**타입:** 물, 드래곤
+**타입:** 악, 비행
 
-**키:** 3.5 m
+**키:** 0.5 m
 
-**몸무게:** 280.0 kg
+**몸무게:** 2.1 kg
 
-**특성:** protosynthesis
+**특성:** 불면, 대운, 짓궂은마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1009.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/murkrow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/murkrow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1009.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1009.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg)
 
 
 ---
