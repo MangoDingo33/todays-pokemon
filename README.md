@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-02 19:09:59 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-02 19:30:54 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 미라몽 (ID: 356)
-**영어 이름:** Dusclops
+# 헤라크로스 (ID: 214)
+**영어 이름:** Heracross
 
-**타입:** 고스트
+**타입:** 벌레, 격투
 
-**키:** 1.6 m
+**키:** 1.5 m
 
-**몸무게:** 30.6 kg
+**몸무게:** 54.0 kg
 
-**특성:** 프레셔, 통찰
+**특성:** 벌레의알림, 근성, 자기과신
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dusclops.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dusclops.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/heracross.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/heracross.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/356.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/356.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/214.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/214.ogg)
 
 
 ---
