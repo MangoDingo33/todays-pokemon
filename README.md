@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-04 04:28:11 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-04 04:36:12 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 클레스퍼트라 (ID: 956)
-**영어 이름:** Espathra
+# 꼬지모 (ID: 185)
+**영어 이름:** Sudowoodo
 
-**타입:** 에스퍼
+**타입:** 바위
 
-**키:** 1.9 m
+**키:** 1.2 m
 
-**몸무게:** 90.0 kg
+**몸무게:** 38.0 kg
 
-**특성:** opportunist, 통찰, 가속
+**특성:** 옹골참, 돌머리, 주눅
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/espathra.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/espathra.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sudowoodo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sudowoodo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/956.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/956.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/185.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/185.ogg)
 
 
 ---
