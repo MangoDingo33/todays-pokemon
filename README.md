@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-03 14:42:06 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-03 14:48:59 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 미니브 (ID: 928)
-**영어 이름:** Smoliv
+# 바다그다 (ID: 960)
+**영어 이름:** Wiglett
 
-**타입:** 풀, 노말
+**타입:** 물
 
-**키:** 0.3 m
+**키:** 1.2 m
 
-**몸무게:** 6.5 kg
+**몸무게:** 1.8 kg
 
-**특성:** 일찍기상, 수확
+**특성:** 미끈미끈, 주눅, 모래숨기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/smoliv.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/smoliv.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/wiglett.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wiglett.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/928.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/928.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg)
 
 
 ---
