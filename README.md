@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-04 08:24:07 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-04 08:30:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 메꾸리 (ID: 221)
-**영어 이름:** Piloswine
+# 눈설왕 (ID: 460)
+**영어 이름:** Abomasnow
 
-**타입:** 얼음, 땅
+**타입:** 풀, 얼음
 
-**키:** 1.1 m
+**키:** 2.2 m
 
-**몸무게:** 55.8 kg
+**몸무게:** 135.5 kg
 
-**특성:** 둔감, 눈숨기, 두꺼운지방
+**특성:** 눈퍼뜨리기, 방음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/piloswine.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/piloswine.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/abomasnow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/abomasnow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/221.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/221.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/460.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/460.ogg)
 
 
 ---
