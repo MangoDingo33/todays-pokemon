@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-05 00:07:11 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-05 00:23:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 귀뚤뚜기 (ID: 401)
-**영어 이름:** Kricketot
+# 장크로다일 (ID: 160)
+**영어 이름:** Feraligatr
 
-**타입:** 벌레
+**타입:** 물
 
-**키:** 0.3 m
+**키:** 2.3 m
 
-**몸무게:** 2.2 kg
+**몸무게:** 88.8 kg
 
-**특성:** 탈피, 도주
+**특성:** 급류, 우격다짐
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/kricketot.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kricketot.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/feraligatr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/feraligatr.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/401.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/401.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg)
 
 
 ---
