@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-07 20:55:45 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-07 21:24:01 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 드라꼰 (ID: 885)
-**영어 이름:** Dreepy
+# 패리퍼 (ID: 279)
+**영어 이름:** Pelipper
 
-**타입:** 드래곤, 고스트
+**타입:** 물, 비행
 
-**키:** 0.5 m
+**키:** 1.2 m
 
-**몸무게:** 2.0 kg
+**몸무게:** 28.0 kg
 
-**특성:** 클리어바디, 틈새포착, 저주받은바디
+**특성:** 날카로운눈, 잔비, 젖은접시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dreepy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dreepy.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pelipper.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pelipper.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/885.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/885.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/279.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/279.ogg)
 
 
 ---
