@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-09 18:35:36 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-09 18:44:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 자망칼 (ID: 624)
-**영어 이름:** Pawniard
+# 형사구스 (ID: 735)
+**영어 이름:** Gumshoos
 
-**타입:** 악, 강철
+**타입:** 노말
 
-**키:** 0.5 m
+**키:** 0.7 m
 
-**몸무게:** 10.2 kg
+**몸무게:** 14.2 kg
 
-**특성:** 오기, 정신력, 프레셔
+**특성:** 잠복, 옹골찬턱, 적응력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/pawniard.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pawniard.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gumshoos.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gumshoos.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/624.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/624.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/735.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/735.ogg)
 
 
 ---
