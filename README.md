@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-11 08:30:29 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-11 08:38:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 메이클 (ID: 672)
-**영어 이름:** Skiddo
+# 마임맨 (ID: 122)
+**영어 이름:** Mr-Mime
 
-**타입:** 풀
+**타입:** 에스퍼, 페어리
 
-**키:** 0.9 m
+**키:** 1.3 m
 
-**몸무게:** 31.0 kg
+**몸무게:** 54.5 kg
 
-**특성:** 초식, 풀모피
+**특성:** 방음, 필터, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/skiddo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/skiddo.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/122.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/672.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/672.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg)
 
 
 ---
