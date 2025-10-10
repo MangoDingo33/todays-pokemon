@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-11 06:39:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-11 06:46:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 왕눈해 (ID: 72)
-**영어 이름:** Tentacool
+# 조로아크 (ID: 571)
+**영어 이름:** Zoroark
 
-**타입:** 물, 독
+**타입:** 악
 
-**키:** 0.9 m
+**키:** 1.6 m
 
-**몸무게:** 45.5 kg
+**몸무게:** 81.1 kg
 
-**특성:** 클리어바디, 해감액, 젖은접시
+**특성:** 일루전
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tentacool.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tentacool.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/zoroark.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zoroark.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/72.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/72.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/571.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/571.ogg)
 
 
 ---
