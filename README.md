@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-11 19:29:19 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-11 19:38:49 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 발챙이 (ID: 60)
-**영어 이름:** Poliwag
+# 모단단게 (ID: 740)
+**영어 이름:** Crabominable
 
-**타입:** 물
+**타입:** 격투, 얼음
 
-**키:** 0.6 m
+**키:** 1.7 m
 
-**몸무게:** 12.4 kg
+**몸무게:** 180.0 kg
 
-**특성:** 저수, 습기, 쓱쓱
+**특성:** 괴력집게, 철주먹, 분노의경혈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/poliwag.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/poliwag.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/crabominable.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/crabominable.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/60.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/60.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/740.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/740.ogg)
 
 
 ---
