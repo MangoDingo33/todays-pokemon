@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-11 21:29:00 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-11 21:57:21 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 루카리오 (ID: 448)
-**영어 이름:** Lucario
+# 파크로우 (ID: 822)
+**영어 이름:** Corvisquire
 
-**타입:** 격투, 강철
+**타입:** 비행
 
-**키:** 1.2 m
+**키:** 0.8 m
 
-**몸무게:** 54.0 kg
+**몸무게:** 16.0 kg
 
-**특성:** 불굴의마음, 정신력, 정의의마음
+**특성:** 날카로운눈, 긴장감, 부풀린가슴
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lucario.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/corvisquire.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/corvisquire.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/448.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/448.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg)
 
 
 ---
