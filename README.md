@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-13 05:44:24 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-13 05:51:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 꾸꾸리 (ID: 220)
-**영어 이름:** Swinub
+# 가로막구리 (ID: 862)
+**영어 이름:** Obstagoon
 
-**타입:** 얼음, 땅
+**타입:** 악, 노말
 
-**키:** 0.4 m
+**키:** 1.6 m
 
-**몸무게:** 6.5 kg
+**몸무게:** 46.0 kg
 
-**특성:** 둔감, 눈숨기, 두꺼운지방
+**특성:** 이판사판, 근성, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/swinub.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swinub.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/obstagoon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/obstagoon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/220.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/220.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/862.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/862.ogg)
 
 
 ---
