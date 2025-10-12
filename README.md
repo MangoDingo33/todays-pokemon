@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-12 19:40:11 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-12 19:47:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 왕큰부리 (ID: 733)
-**영어 이름:** Toucannon
+# 타입:널 (ID: 772)
+**영어 이름:** Type-Null
 
-**타입:** 노말, 비행
+**타입:** 노말
 
-**키:** 1.1 m
+**키:** 1.9 m
 
-**몸무게:** 26.0 kg
+**몸무게:** 120.5 kg
 
-**특성:** 날카로운눈, 스킬링크, 우격다짐
+**특성:** 전투무장
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/toucannon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/toucannon.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/772.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/733.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/733.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/772.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/772.ogg)
 
 
 ---
