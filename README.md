@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-13 18:59:56 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-13 19:24:36 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 기로치 (ID: 1016)
-**영어 이름:** Fezandipiti
+# 아차모 (ID: 255)
+**영어 이름:** Torchic
 
-**타입:** 독, 페어리
+**타입:** 불꽃
 
-**키:** 1.4 m
+**키:** 0.4 m
 
-**몸무게:** 30.1 kg
+**몸무게:** 2.5 kg
 
-**특성:** 독사슬, 테크니션
+**특성:** 맹화, 가속
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1016.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/torchic.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/torchic.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1016.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1016.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/255.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/255.ogg)
 
 
 ---
