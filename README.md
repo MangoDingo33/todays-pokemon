@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-15 01:38:40 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-15 01:51:01 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 시마사리 (ID: 747)
-**영어 이름:** Mareanie
+# 볼트로스 (ID: 642)
+**영어 이름:** Thundurus-Incarnate
 
-**타입:** 독, 물
+**타입:** 전기, 비행
 
-**키:** 0.4 m
+**키:** 1.5 m
 
-**몸무게:** 8.0 kg
+**몸무게:** 61.0 kg
 
-**특성:** 무도한행동, 유연, 재생력
+**특성:** 짓궂은마음, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/mareanie.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mareanie.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/747.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/747.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/642.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/642.ogg)
 
 
 ---
