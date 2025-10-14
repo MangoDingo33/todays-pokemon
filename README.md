@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-14 22:42:47 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-14 22:52:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 두빅굴 (ID: 537)
-**영어 이름:** Seismitoad
+# 파밀리쥐 (ID: 925)
+**영어 이름:** Maushold-Family-Of-Four
 
-**타입:** 물, 땅
+**타입:** 노말
 
-**키:** 1.5 m
+**키:** 0.3 m
 
-**몸무게:** 62.0 kg
+**몸무게:** 2.3 kg
 
-**특성:** 쓱쓱, 독수, 저수
+**특성:** 프렌드가드, 볼주머니, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/seismitoad.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/seismitoad.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/925.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/537.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/537.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg)
 
 
 ---
