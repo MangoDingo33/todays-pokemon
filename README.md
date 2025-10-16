@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-17 08:07:52 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-17 08:22:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 마릴리 (ID: 184)
-**영어 이름:** Azumarill
+# 슬리프 (ID: 96)
+**영어 이름:** Drowzee
 
-**타입:** 물, 페어리
+**타입:** 에스퍼
 
-**키:** 0.8 m
+**키:** 1.0 m
 
-**몸무게:** 28.5 kg
+**몸무게:** 32.4 kg
 
-**특성:** 두꺼운지방, 천하장사, 초식
+**특성:** 불면, 예지몽, 정신력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/azumarill.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/azumarill.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/drowzee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drowzee.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/184.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/96.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/96.ogg)
 
 
 ---
