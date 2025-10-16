@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-17 05:59:06 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-17 06:16:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 달콤아 (ID: 761)
-**영어 이름:** Bounsweet
+# 꼬링크 (ID: 403)
+**영어 이름:** Shinx
 
-**타입:** 풀
+**타입:** 전기
 
-**키:** 0.3 m
+**키:** 0.5 m
 
-**몸무게:** 3.2 kg
+**몸무게:** 9.5 kg
 
-**특성:** 리프가드, 둔감, 스위트베일
+**특성:** 투쟁심, 위협, 근성
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/bounsweet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bounsweet.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/shinx.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shinx.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/761.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/761.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/403.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/403.ogg)
 
 
 ---
