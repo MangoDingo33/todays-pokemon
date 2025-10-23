@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-24 01:51:21 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-24 01:58:23 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 방패톱스 (ID: 410)
-**영어 이름:** Shieldon
+# 사마자르 (ID: 900)
+**영어 이름:** Kleavor
 
-**타입:** 바위, 강철
+**타입:** 벌레, 바위
 
-**키:** 0.5 m
+**키:** 1.8 m
 
-**몸무게:** 57.0 kg
+**몸무게:** 89.0 kg
 
-**특성:** 옹골참, 방음
+**특성:** 벌레의알림, 우격다짐, sharpness
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/shieldon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shieldon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/kleavor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kleavor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/410.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/410.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/900.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/900.ogg)
 
 
 ---
