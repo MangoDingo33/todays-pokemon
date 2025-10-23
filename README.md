@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-23 18:18:37 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-23 18:35:16 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 내루미 (ID: 108)
-**영어 이름:** Lickitung
+# 보르쥐 (ID: 504)
+**영어 이름:** Patrat
 
 **타입:** 노말
 
-**키:** 1.2 m
+**키:** 0.5 m
 
-**몸무게:** 65.5 kg
+**몸무게:** 11.6 kg
 
-**특성:** 마이페이스, 둔감, 날씨부정
+**특성:** 도주, 날카로운눈, 애널라이즈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lickitung.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lickitung.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/patrat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/patrat.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/504.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/504.ogg)
 
 
 ---
