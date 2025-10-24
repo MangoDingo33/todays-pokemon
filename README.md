@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-25 06:49:14 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-25 06:56:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 캐이시 (ID: 63)
-**영어 이름:** Abra
+# 카푸느지느 (ID: 788)
+**영어 이름:** Tapu-Fini
 
-**타입:** 에스퍼
+**타입:** 물, 페어리
 
-**키:** 0.9 m
+**키:** 1.3 m
 
-**몸무게:** 19.5 kg
+**몸무게:** 21.2 kg
 
-**특성:** 싱크로, 정신력, 매직가드
+**특성:** 미스트메이커, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/abra.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/abra.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/788.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/63.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/63.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/788.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/788.ogg)
 
 
 ---
