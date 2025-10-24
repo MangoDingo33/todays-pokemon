@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-25 04:42:09 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-25 04:49:08 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 수레기 (ID: 690)
-**영어 이름:** Skrelp
+# 오기지게 (ID: 739)
+**영어 이름:** Crabrawler
 
-**타입:** 독, 물
+**타입:** 격투
 
-**키:** 0.5 m
+**키:** 0.6 m
 
-**몸무게:** 7.3 kg
+**몸무게:** 7.0 kg
 
-**특성:** 독가시, 독수, 적응력
+**특성:** 괴력집게, 철주먹, 분노의경혈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/skrelp.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/skrelp.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/crabrawler.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/crabrawler.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/690.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/690.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/739.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/739.ogg)
 
 
 ---
