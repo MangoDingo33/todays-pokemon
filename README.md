@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-26 12:59:00 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-26 13:20:50 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 체리버 (ID: 420)
-**영어 이름:** Cherubi
+# 브이젤 (ID: 418)
+**영어 이름:** Buizel
 
-**타입:** 풀
+**타입:** 물
 
-**키:** 0.4 m
+**키:** 0.7 m
 
-**몸무게:** 3.3 kg
+**몸무게:** 29.5 kg
 
-**특성:** 엽록소
+**특성:** 쓱쓱, 수의베일
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/cherubi.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cherubi.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/buizel.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/buizel.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/420.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/420.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/418.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/418.ogg)
 
 
 ---
