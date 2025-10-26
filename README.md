@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-27 02:30:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-27 02:38:55 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 리그레 (ID: 605)
-**영어 이름:** Elgyem
+# 티고라스 (ID: 696)
+**영어 이름:** Tyrunt
 
-**타입:** 에스퍼
+**타입:** 바위, 드래곤
 
-**키:** 0.5 m
+**키:** 0.8 m
 
-**몸무게:** 9.0 kg
+**몸무게:** 26.0 kg
 
-**특성:** 텔레파시, 싱크로, 애널라이즈
+**특성:** 옹골찬턱, 옹골참
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/elgyem.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/elgyem.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tyrunt.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tyrunt.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/605.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/605.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/696.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/696.ogg)
 
 
 ---
