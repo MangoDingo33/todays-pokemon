@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-26 21:55:57 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-26 22:18:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 에리본 (ID: 743)
-**영어 이름:** Ribombee
+# 몬냥이 (ID: 432)
+**영어 이름:** Purugly
 
-**타입:** 벌레, 페어리
+**타입:** 노말
 
-**키:** 0.2 m
+**키:** 1.0 m
 
-**몸무게:** 0.5 kg
+**몸무게:** 43.8 kg
 
-**특성:** 꿀모으기, 인분, 스위트베일
+**특성:** 두꺼운지방, 마이페이스, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ribombee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ribombee.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/purugly.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/purugly.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/743.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/743.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/432.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/432.ogg)
 
 
 ---
