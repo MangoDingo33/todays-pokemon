@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-28 03:15:49 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-28 03:43:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 두리쥐 (ID: 924)
-**영어 이름:** Tandemaus
+# 코고미 (ID: 613)
+**영어 이름:** Cubchoo
 
-**타입:** 노말
+**타입:** 얼음
 
-**키:** 0.3 m
+**키:** 0.5 m
 
-**몸무게:** 1.8 kg
+**몸무게:** 8.5 kg
 
-**특성:** 도주, 픽업, 마이페이스
+**특성:** 눈숨기, 눈치우기, 주눅
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tandemaus.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tandemaus.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cubchoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cubchoo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/924.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/924.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/613.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/613.ogg)
 
 
 ---
