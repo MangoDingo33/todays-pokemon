@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-10-30 06:40:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-10-30 06:47:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 기가이어스 (ID: 526)
-**영어 이름:** Gigalith
+# 만마드 (ID: 750)
+**영어 이름:** Mudsdale
 
-**타입:** 바위
+**타입:** 땅
 
-**키:** 1.7 m
+**키:** 2.5 m
 
-**몸무게:** 260.0 kg
+**몸무게:** 920.0 kg
 
-**특성:** 옹골참, 모래날림, 모래의힘
+**특성:** 마이페이스, 지구력, 정신력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/gigalith.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gigalith.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/mudsdale.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mudsdale.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/526.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/526.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/750.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/750.ogg)
 
 
 ---
