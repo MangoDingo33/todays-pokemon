@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-02 18:13:05 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-02 18:27:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 차데스 (ID: 1012)
-**영어 이름:** Poltchageist
+# 꾸왁스 (ID: 912)
+**영어 이름:** Quaxly
 
-**타입:** 풀, 고스트
+**타입:** 물
 
-**키:** 0.1 m
+**키:** 0.5 m
 
-**몸무게:** 1.1 kg
+**몸무게:** 6.1 kg
 
-**특성:** 대접, 내열
+**특성:** 급류, 자기과신
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/poltchageist.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/poltchageist.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/quaxly.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/quaxly.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1012.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1012.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/912.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/912.ogg)
 
 
 ---
