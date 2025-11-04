@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-05 05:59:38 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-05 06:19:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 카디나르마 (ID: 936)
-**영어 이름:** Armarouge
+# 파르토 (ID: 660)
+**영어 이름:** Diggersby
 
-**타입:** 불꽃, 에스퍼
+**타입:** 노말, 땅
 
-**키:** 1.5 m
+**키:** 1.0 m
 
-**몸무게:** 85.0 kg
+**몸무게:** 42.4 kg
 
-**특성:** 타오르는불꽃, 깨어진갑옷
+**특성:** 픽업, 볼주머니, 천하장사
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/armarouge.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/armarouge.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/diggersby.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/diggersby.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/936.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/936.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/660.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/660.ogg)
 
 
 ---
