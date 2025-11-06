@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-07 06:52:48 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-07 06:59:13 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 레쿠쟈 (ID: 384)
-**영어 이름:** Rayquaza
+# 요가램 (ID: 308)
+**영어 이름:** Medicham
 
-**타입:** 드래곤, 비행
+**타입:** 격투, 에스퍼
 
-**키:** 7.0 m
+**키:** 1.3 m
 
-**몸무게:** 206.5 kg
+**몸무게:** 31.5 kg
 
-**특성:** 에어록
+**특성:** 순수한힘, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rayquaza.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/medicham.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/medicham.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/384.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/384.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/308.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/308.ogg)
 
 
 ---
