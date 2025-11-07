@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-08 05:43:06 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-08 05:49:58 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 플라베베 (ID: 669)
-**영어 이름:** Flabebe
+# 아르코 (ID: 182)
+**영어 이름:** Bellossom
 
-**타입:** 페어리
+**타입:** 풀
 
-**키:** 0.1 m
+**키:** 0.4 m
 
-**몸무게:** 0.1 kg
+**몸무게:** 5.8 kg
 
-**특성:** 플라워베일, 공생
+**특성:** 엽록소, 치유의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/flabebe.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/flabebe.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/bellossom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bellossom.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg)
 
 
 ---
