@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-08 18:29:05 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-08 18:37:27 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 따라큐 (ID: 778)
-**영어 이름:** Mimikyu-Disguised
+# 눈설왕 (ID: 460)
+**영어 이름:** Abomasnow
 
-**타입:** 고스트, 페어리
+**타입:** 풀, 얼음
 
-**키:** 0.2 m
+**키:** 2.2 m
 
-**몸무게:** 0.7 kg
+**몸무게:** 135.5 kg
 
-**특성:** 탈
+**특성:** 눈퍼뜨리기, 방음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/abomasnow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/abomasnow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/460.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/460.ogg)
 
 
 ---
