@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-11 04:32:21 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-11 04:40:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 타랜툴라 (ID: 917)
-**영어 이름:** Tarountula
+# 메타그로스 (ID: 376)
+**영어 이름:** Metagross
 
-**타입:** 벌레
+**타입:** 강철, 에스퍼
 
-**키:** 0.3 m
+**키:** 1.6 m
 
-**몸무게:** 4.0 kg
+**몸무게:** 550.0 kg
 
-**특성:** 불면, 잠복
+**특성:** 클리어바디, 라이트메탈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tarountula.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tarountula.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/metagross.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/metagross.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/917.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/917.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/376.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/376.ogg)
 
 
 ---
