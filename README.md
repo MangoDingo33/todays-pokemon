@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-10 13:04:30 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-10 13:35:38 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 무쇠무인 (ID: 1006)
-**영어 이름:** Iron-Valiant
+# 콕코구리 (ID: 731)
+**영어 이름:** Pikipek
 
-**타입:** 페어리, 격투
+**타입:** 노말, 비행
 
-**키:** 1.4 m
+**키:** 0.3 m
 
-**몸무게:** 35.0 kg
+**몸무게:** 1.2 kg
 
-**특성:** quark-drive
+**특성:** 날카로운눈, 스킬링크, 픽업
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1006.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pikipek.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pikipek.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1006.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1006.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/731.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/731.ogg)
 
 
 ---
