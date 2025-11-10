@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-10 22:59:55 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-10 23:22:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 드래캄 (ID: 691)
-**영어 이름:** Dragalge
+# 파크로우 (ID: 822)
+**영어 이름:** Corvisquire
 
-**타입:** 독, 드래곤
+**타입:** 비행
 
-**키:** 1.8 m
+**키:** 0.8 m
 
-**몸무게:** 81.5 kg
+**몸무게:** 16.0 kg
 
-**특성:** 독가시, 독수, 적응력
+**특성:** 날카로운눈, 긴장감, 부풀린가슴
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dragalge.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dragalge.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/corvisquire.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/corvisquire.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/691.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/691.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg)
 
 
 ---
