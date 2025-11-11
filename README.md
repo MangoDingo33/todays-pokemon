@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-12 00:18:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-12 00:36:49 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 비비용 (ID: 666)
-**영어 이름:** Vivillon
+# 신뇽 (ID: 148)
+**영어 이름:** Dragonair
 
-**타입:** 벌레, 비행
+**타입:** 드래곤
 
-**키:** 1.2 m
+**키:** 4.0 m
 
-**몸무게:** 17.0 kg
+**몸무게:** 16.5 kg
 
-**특성:** 인분, 복안, 프렌드가드
+**특성:** 탈피, 이상한비늘
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/vivillon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vivillon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dragonair.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dragonair.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/666.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/666.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg)
 
 
 ---
