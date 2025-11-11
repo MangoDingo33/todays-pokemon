@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-11 14:52:29 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-11 14:58:54 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 묘두기 (ID: 972)
-**영어 이름:** Houndstone
+# 파비코 (ID: 333)
+**영어 이름:** Swablu
 
-**타입:** 고스트
+**타입:** 노말, 비행
 
-**키:** 2.0 m
+**키:** 0.4 m
 
-**몸무게:** 15.0 kg
+**몸무게:** 1.2 kg
 
-**특성:** 모래헤치기, 복슬복슬
+**특성:** 자연회복, 날씨부정
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/houndstone.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/houndstone.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/swablu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swablu.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/333.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/333.ogg)
 
 
 ---
