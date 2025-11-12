@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-12 08:58:49 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-12 10:27:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 잉어킹 (ID: 129)
-**영어 이름:** Magikarp
+# 드래피온 (ID: 452)
+**영어 이름:** Drapion
 
-**타입:** 물
+**타입:** 독, 악
 
-**키:** 0.9 m
+**키:** 1.3 m
 
-**몸무게:** 10.0 kg
+**몸무게:** 61.5 kg
 
-**특성:** 쓱쓱, 주눅
+**특성:** 전투무장, 스나이퍼, 날카로운눈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/magikarp.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/magikarp.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/drapion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drapion.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/452.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/452.ogg)
 
 
 ---
