@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-16 02:42:04 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-16 02:48:43 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 아이앤트 (ID: 632)
-**영어 이름:** Durant
+# 파라섹트 (ID: 47)
+**영어 이름:** Parasect
 
-**타입:** 벌레, 강철
+**타입:** 벌레, 풀
 
-**키:** 0.3 m
+**키:** 1.0 m
 
-**몸무게:** 33.0 kg
+**몸무게:** 29.5 kg
 
-**특성:** 벌레의알림, 의욕, 게으름
+**특성:** 포자, 건조피부, 습기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/durant.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/durant.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/parasect.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/parasect.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/632.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/632.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/47.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/47.ogg)
 
 
 ---
