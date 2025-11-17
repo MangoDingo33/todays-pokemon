@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-17 17:58:21 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-17 18:23:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 악뜨거 (ID: 910)
-**영어 이름:** Crocalor
+# 몽나 (ID: 517)
+**영어 이름:** Munna
 
-**타입:** 불꽃
+**타입:** 에스퍼
 
-**키:** 1.0 m
+**키:** 0.6 m
 
-**몸무게:** 30.7 kg
+**몸무게:** 23.3 kg
 
-**특성:** 맹화, 천진
+**특성:** 예지몽, 싱크로, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/crocalor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/crocalor.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/munna.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/munna.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/910.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/910.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/517.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/517.ogg)
 
 
 ---
