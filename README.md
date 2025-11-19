@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-20 02:40:46 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-20 02:47:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 딩루 (ID: 1003)
-**영어 이름:** Ting-Lu
+# 냐오닉스 (ID: 678)
+**영어 이름:** Meowstic-Male
 
-**타입:** 악, 땅
+**타입:** 에스퍼
 
-**키:** 2.7 m
+**키:** 0.6 m
 
-**몸무게:** 699.7 kg
+**몸무게:** 8.5 kg
 
-**특성:** vessel-of-ruin
+**특성:** keen-eye, 틈새포착, 짓궂은마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1003.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/678.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1003.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1003.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/678.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/678.ogg)
 
 
 ---
