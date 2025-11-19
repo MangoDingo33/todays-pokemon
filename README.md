@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-19 18:35:40 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-19 18:46:33 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 딜리버드 (ID: 225)
-**영어 이름:** Delibird
+# 고동치는달 (ID: 1005)
+**영어 이름:** Roaring-Moon
 
-**타입:** 얼음, 비행
+**타입:** 드래곤, 악
 
-**키:** 0.9 m
+**키:** 2.0 m
 
-**몸무게:** 16.0 kg
+**몸무게:** 380.0 kg
 
-**특성:** 의기양양, 의욕, 불면
+**특성:** protosynthesis
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/delibird.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/delibird.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1005.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1005.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/225.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/225.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1005.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1005.ogg)
 
 
 ---
