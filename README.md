@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-20 23:10:30 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-20 23:33:35 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 샤미드 (ID: 134)
-**영어 이름:** Vaporeon
+# 갈모매 (ID: 278)
+**영어 이름:** Wingull
 
-**타입:** 물
+**타입:** 물, 비행
 
-**키:** 1.0 m
+**키:** 0.6 m
 
-**몸무게:** 29.0 kg
+**몸무게:** 9.5 kg
 
-**특성:** 저수, 촉촉바디
+**특성:** keen-eye, 촉촉바디, 젖은접시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/vaporeon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vaporeon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/wingull.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wingull.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/278.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/278.ogg)
 
 
 ---
