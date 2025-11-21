@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-22 06:51:34 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-22 06:58:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 구구 (ID: 16)
-**영어 이름:** Pidgey
+# 야도뇽 (ID: 757)
+**영어 이름:** Salandit
 
-**타입:** 노말, 비행
+**타입:** 독, 불꽃
 
-**키:** 0.3 m
+**키:** 0.6 m
 
-**몸무게:** 1.8 kg
+**몸무게:** 4.8 kg
 
-**특성:** keen-eye, 갈지자걸음, 부풀린가슴
+**특성:** 부식, 둔감
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/pidgey.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pidgey.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/salandit.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/salandit.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/757.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/757.ogg)
 
 
 ---
