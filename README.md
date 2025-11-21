@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-22 06:44:51 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-22 06:51:34 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 비조도 (ID: 620)
-**영어 이름:** Mienshao
+# 구구 (ID: 16)
+**영어 이름:** Pidgey
 
-**타입:** 격투
+**타입:** 노말, 비행
 
-**키:** 1.4 m
+**키:** 0.3 m
 
-**몸무게:** 35.5 kg
+**몸무게:** 1.8 kg
 
-**특성:** 정신력, 재생력, 이판사판
+**특성:** keen-eye, 갈지자걸음, 부풀린가슴
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/mienshao.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mienshao.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pidgey.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pidgey.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/620.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/620.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg)
 
 
 ---
