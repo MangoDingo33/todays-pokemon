@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-21 15:29:10 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-21 15:52:16 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 누리레느 (ID: 730)
-**영어 이름:** Primarina
+# 날쌩마 (ID: 78)
+**영어 이름:** Rapidash
 
-**타입:** 물, 페어리
+**타입:** 불꽃
 
-**키:** 1.8 m
+**키:** 1.7 m
 
-**몸무게:** 44.0 kg
+**몸무게:** 95.0 kg
 
-**특성:** 급류, 촉촉보이스
+**특성:** 도주, 타오르는불꽃, 불꽃몸
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/primarina.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/primarina.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/rapidash.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rapidash.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/730.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/730.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/78.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/78.ogg)
 
 
 ---
