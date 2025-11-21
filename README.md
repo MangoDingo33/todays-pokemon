@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-21 22:00:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-21 22:30:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 아이앤트 (ID: 632)
-**영어 이름:** Durant
+# 날뛰는우레 (ID: 1021)
+**영어 이름:** Raging-Bolt
 
-**타입:** 벌레, 강철
+**타입:** 전기, 드래곤
 
-**키:** 0.3 m
+**키:** 5.2 m
 
-**몸무게:** 33.0 kg
+**몸무게:** 480.0 kg
 
-**특성:** 벌레의알림, 의욕, 게으름
+**특성:** protosynthesis
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/durant.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/durant.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1021.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/632.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/632.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1021.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1021.ogg)
 
 
 ---
