@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-22 15:43:04 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-22 15:52:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 대쓰여너 (ID: 902)
-**영어 이름:** Basculegion-Male
+# 스라크 (ID: 123)
+**영어 이름:** Scyther
 
-**타입:** 물, 고스트
+**타입:** 벌레, 비행
 
-**키:** 3.0 m
+**키:** 1.5 m
 
-**몸무게:** 110.0 kg
+**몸무게:** 56.0 kg
 
-**특성:** 쓱쓱, 적응력, 틀깨기
+**특성:** 벌레의알림, 테크니션, 불굴의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/902.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/scyther.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/scyther.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/902.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/902.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg)
 
 
 ---
