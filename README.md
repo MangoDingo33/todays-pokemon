@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-23 03:17:03 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-23 03:41:36 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 페로코체 (ID: 795)
-**영어 이름:** Pheromosa
+# 매시붕 (ID: 794)
+**영어 이름:** Buzzwole
 
 **타입:** 벌레, 격투
 
-**키:** 1.8 m
+**키:** 2.4 m
 
-**몸무게:** 25.0 kg
+**몸무게:** 333.6 kg
 
 **특성:** 비스트부스트
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/pheromosa.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pheromosa.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/buzzwole.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/buzzwole.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/795.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/795.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/794.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/794.ogg)
 
 
 ---
