@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-25 06:52:35 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-25 06:59:13 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 땃쭈르 (ID: 944)
-**영어 이름:** Shroodle
+# 보송송 (ID: 180)
+**영어 이름:** Flaaffy
 
-**타입:** 독, 노말
+**타입:** 전기
 
-**키:** 0.2 m
+**키:** 0.8 m
 
-**몸무게:** 0.7 kg
+**몸무게:** 13.3 kg
 
-**특성:** 곡예, 나쁜손버릇, 짓궂은마음
+**특성:** 정전기, 플러스
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/shroodle.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shroodle.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/flaaffy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/flaaffy.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/944.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/944.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg)
 
 
 ---
