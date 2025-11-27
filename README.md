@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-28 02:46:34 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-28 02:52:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 타만타 (ID: 458)
-**영어 이름:** Mantyke
+# 마임맨 (ID: 122)
+**영어 이름:** Mr-Mime
 
-**타입:** 물, 비행
+**타입:** 에스퍼, 페어리
 
-**키:** 1.0 m
+**키:** 1.3 m
 
-**몸무게:** 65.0 kg
+**몸무게:** 54.5 kg
 
-**특성:** 쓱쓱, 저수, 수의베일
+**특성:** 방음, 필터, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mantyke.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/122.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/458.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/458.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg)
 
 
 ---
