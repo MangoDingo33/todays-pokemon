@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-28 22:49:36 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-28 22:55:59 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 블레이범 (ID: 157)
-**영어 이름:** Typhlosion
+# 깨비드릴조 (ID: 22)
+**영어 이름:** Fearow
 
-**타입:** 불꽃
+**타입:** 노말, 비행
 
-**키:** 1.7 m
+**키:** 1.2 m
 
-**몸무게:** 79.5 kg
+**몸무게:** 38.0 kg
 
-**특성:** 맹화, 타오르는불꽃
+**특성:** 날카로운눈, 스나이퍼
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/typhlosion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/typhlosion.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/fearow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/fearow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/22.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/22.ogg)
 
 
 ---
