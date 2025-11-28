@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-29 06:51:01 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-29 06:57:22 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 가재장군 (ID: 342)
-**영어 이름:** Crawdaunt
+# 더시마사리 (ID: 748)
+**영어 이름:** Toxapex
 
-**타입:** 물, 악
+**타입:** 독, 물
 
-**키:** 1.1 m
+**키:** 0.7 m
 
-**몸무게:** 32.8 kg
+**몸무게:** 14.5 kg
 
-**특성:** 괴력집게, 조가비갑옷, 적응력
+**특성:** 무도한행동, 유연, 재생력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/crawdaunt.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/crawdaunt.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/toxapex.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/toxapex.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/342.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/342.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/748.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/748.ogg)
 
 
 ---
