@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-29 15:47:07 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-29 15:56:45 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 부르롱 (ID: 965)
-**영어 이름:** Varoom
+# 부란다 (ID: 675)
+**영어 이름:** Pangoro
 
-**타입:** 강철, 독
+**타입:** 격투, 악
 
-**키:** 1.0 m
+**키:** 2.1 m
 
-**몸무게:** 35.0 kg
+**몸무게:** 136.0 kg
 
-**특성:** 방진, 슬로스타트
+**특성:** 철주먹, 틀깨기, 배짱
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/varoom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/varoom.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pangoro.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pangoro.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/965.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/965.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/675.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/675.ogg)
 
 
 ---
