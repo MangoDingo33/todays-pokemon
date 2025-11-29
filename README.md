@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-29 22:47:38 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-29 22:54:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 대로트 (ID: 709)
-**영어 이름:** Trevenant
+# 오뚝군 (ID: 343)
+**영어 이름:** Baltoy
 
-**타입:** 고스트, 풀
+**타입:** 땅, 에스퍼
 
-**키:** 1.5 m
+**키:** 0.5 m
 
-**몸무게:** 71.0 kg
+**몸무게:** 21.5 kg
 
-**특성:** 자연회복, 통찰, 수확
+**특성:** 부유
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/trevenant.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/trevenant.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/baltoy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/baltoy.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/709.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/709.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/343.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/343.ogg)
 
 
 ---
