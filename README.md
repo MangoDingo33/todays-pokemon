@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-11-30 14:52:05 (KST) ⏳
+⏳ 업데이트 시간: 2025-11-30 14:58:33 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 뽀록나 (ID: 591)
-**영어 이름:** Amoonguss
+# 펌킨인 (ID: 711)
+**영어 이름:** Gourgeist-Average
 
-**타입:** 풀, 독
+**타입:** 고스트, 풀
 
-**키:** 0.6 m
+**키:** 0.9 m
 
-**몸무게:** 10.5 kg
+**몸무게:** 12.5 kg
 
-**특성:** 포자, 재생력
+**특성:** 픽업, 통찰, 불면
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/amoonguss.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/amoonguss.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/711.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/591.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/591.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/711.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/711.ogg)
 
 
 ---
