@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-01 01:58:25 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-01 02:15:22 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 비리디온 (ID: 640)
-**영어 이름:** Virizion
+# 오거폰 (ID: 1017)
+**영어 이름:** Ogerpon
 
-**타입:** 풀, 격투
+**타입:** 풀
 
-**키:** 2.0 m
+**키:** 1.2 m
 
-**몸무게:** 200.0 kg
+**몸무게:** 39.8 kg
 
-**특성:** 정의의마음
+**특성:** 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/virizion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/virizion.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1017.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/640.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/640.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1017.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1017.ogg)
 
 
 ---
