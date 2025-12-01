@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-02 06:47:28 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-02 06:53:52 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 루주라 (ID: 124)
-**영어 이름:** Jynx
+# 미뇽 (ID: 147)
+**영어 이름:** Dratini
 
-**타입:** 얼음, 에스퍼
+**타입:** 드래곤
 
-**키:** 1.4 m
+**키:** 1.8 m
 
-**몸무게:** 40.6 kg
+**몸무게:** 3.3 kg
 
-**특성:** 둔감, 예지몽, 건조피부
+**특성:** 탈피, 이상한비늘
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/jynx.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/jynx.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dratini.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dratini.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg)
 
 
 ---
