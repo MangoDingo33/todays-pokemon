@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-02 13:45:29 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-02 13:57:09 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 라란티스 (ID: 754)
-**영어 이름:** Lurantis
+# 마자용 (ID: 202)
+**영어 이름:** Wobbuffet
 
-**타입:** 풀
+**타입:** 에스퍼
 
-**키:** 0.9 m
+**키:** 1.3 m
 
-**몸무게:** 18.5 kg
+**몸무게:** 28.5 kg
 
-**특성:** 리프가드, 심술꾸러기
+**특성:** 그림자밟기, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lurantis.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lurantis.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/wobbuffet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wobbuffet.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/754.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/754.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/202.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/202.ogg)
 
 
 ---
