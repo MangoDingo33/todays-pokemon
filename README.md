@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-07 23:41:15 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-07 23:47:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 푸크린 (ID: 40)
-**영어 이름:** Wigglytuff
+# 춤추새 (ID: 741)
+**영어 이름:** Oricorio-Baile
 
-**타입:** 노말, 페어리
+**타입:** 불꽃, 비행
 
-**키:** 1.0 m
+**키:** 0.6 m
 
-**몸무게:** 12.0 kg
+**몸무게:** 3.4 kg
 
-**특성:** 헤롱헤롱바디, 승기, 통찰
+**특성:** 무희
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/wigglytuff.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wigglytuff.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/741.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/40.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/40.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/741.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/741.ogg)
 
 
 ---
