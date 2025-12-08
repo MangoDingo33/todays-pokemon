@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-08 14:52:44 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-08 14:59:27 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 대코파스 (ID: 476)
-**영어 이름:** Probopass
+# 샤크니아 (ID: 319)
+**영어 이름:** Sharpedo
 
-**타입:** 바위, 강철
+**타입:** 물, 악
 
-**키:** 1.4 m
+**키:** 1.8 m
 
-**몸무게:** 340.0 kg
+**몸무게:** 88.8 kg
 
-**특성:** 옹골참, 자력, 모래의힘
+**특성:** 까칠한피부, 가속
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/probopass.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/probopass.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sharpedo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sharpedo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/476.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/476.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/319.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/319.ogg)
 
 
 ---
