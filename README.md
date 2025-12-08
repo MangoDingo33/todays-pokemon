@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-08 10:21:37 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-08 11:58:44 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 백솜모카 (ID: 830)
-**영어 이름:** Eldegoss
+# 해무기 (ID: 771)
+**영어 이름:** Pyukumuku
 
-**타입:** 풀
+**타입:** 물
 
-**키:** 0.5 m
+**키:** 0.3 m
 
-**몸무게:** 2.5 kg
+**몸무게:** 1.2 kg
 
-**특성:** 솜털, 재생력, 포자
+**특성:** 내용물분출, 천진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/eldegoss.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/eldegoss.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/pyukumuku.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pyukumuku.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/830.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/830.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/771.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/771.ogg)
 
 
 ---
