@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-08 13:23:16 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-08 13:49:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 샤프니아 (ID: 318)
-**영어 이름:** Carvanha
+# 미끄네일 (ID: 705)
+**영어 이름:** Sliggoo
 
-**타입:** 물, 악
+**타입:** 드래곤
 
 **키:** 0.8 m
 
-**몸무게:** 20.8 kg
+**몸무게:** 17.5 kg
 
-**특성:** 까칠한피부, 가속
+**특성:** 초식, 촉촉바디, 미끈미끈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/carvanha.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/carvanha.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sliggoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sliggoo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/318.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/318.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg)
 
 
 ---
