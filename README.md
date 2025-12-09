@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-10 08:32:18 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-10 08:41:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 헌테일 (ID: 367)
-**영어 이름:** Huntail
+# 카르본 (ID: 935)
+**영어 이름:** Charcadet
 
-**타입:** 물
+**타입:** 불꽃
 
-**키:** 1.7 m
+**키:** 0.6 m
 
-**몸무게:** 27.0 kg
+**몸무게:** 10.5 kg
 
-**특성:** 쓱쓱, 수의베일
+**특성:** 타오르는불꽃, 불꽃몸
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/huntail.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/huntail.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/charcadet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/charcadet.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/367.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/367.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/935.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/935.ogg)
 
 
 ---
