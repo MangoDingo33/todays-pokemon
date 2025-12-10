@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-10 17:45:22 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-10 17:59:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 라프라스 (ID: 131)
-**영어 이름:** Lapras
+# 썬더 (ID: 145)
+**영어 이름:** Zapdos
 
-**타입:** 물, 얼음
+**타입:** 전기, 비행
 
-**키:** 2.5 m
+**키:** 1.6 m
 
-**몸무게:** 220.0 kg
+**몸무게:** 52.6 kg
 
-**특성:** 저수, 조가비갑옷, 촉촉바디
+**특성:** 프레셔, 정전기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lapras.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lapras.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/zapdos.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zapdos.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg)
 
 
 ---
