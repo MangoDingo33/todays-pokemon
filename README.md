@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-11 07:36:26 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-11 07:48:38 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 이어롭 (ID: 428)
-**영어 이름:** Lopunny
+# 퍼퓨돈 (ID: 916)
+**영어 이름:** Oinkologne-Male
 
 **타입:** 노말
 
-**키:** 1.2 m
+**키:** 1.0 m
 
-**몸무게:** 33.3 kg
+**몸무게:** 120.0 kg
 
-**특성:** 헤롱헤롱바디, 서투름, 유연
+**특성:** lingering-aroma, 먹보, 두꺼운지방
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lopunny.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lopunny.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/916.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/428.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/428.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/916.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/916.ogg)
 
 
 ---
