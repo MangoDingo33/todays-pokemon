@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-10 19:31:32 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-10 19:51:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 미끄네일 (ID: 705)
-**영어 이름:** Sliggoo
+# 찌르호크 (ID: 398)
+**영어 이름:** Staraptor
 
-**타입:** 드래곤
+**타입:** 노말, 비행
 
-**키:** 0.8 m
+**키:** 1.2 m
 
-**몸무게:** 17.5 kg
+**몸무게:** 24.9 kg
 
-**특성:** 초식, 촉촉바디, 미끈미끈
+**특성:** 위협, 이판사판
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/sliggoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sliggoo.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/staraptor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/staraptor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/398.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/398.ogg)
 
 
 ---
