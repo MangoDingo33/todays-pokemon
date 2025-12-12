@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-13 04:44:39 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-13 04:51:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 바다그다 (ID: 960)
-**영어 이름:** Wiglett
+# 진주몽 (ID: 366)
+**영어 이름:** Clamperl
 
 **타입:** 물
 
-**키:** 1.2 m
+**키:** 0.4 m
 
-**몸무게:** 1.8 kg
+**몸무게:** 52.5 kg
 
-**특성:** 미끈미끈, 주눅, 모래숨기
+**특성:** 조가비갑옷, 주눅
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/wiglett.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wiglett.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/clamperl.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/clamperl.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/366.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/366.ogg)
 
 
 ---
