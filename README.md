@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-13 04:57:48 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-13 05:19:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 클레스퍼트라 (ID: 956)
-**영어 이름:** Espathra
+# 위대한엄니 (ID: 984)
+**영어 이름:** Great-Tusk
 
-**타입:** 에스퍼
+**타입:** 땅, 격투
 
-**키:** 1.9 m
+**키:** 2.2 m
 
-**몸무게:** 90.0 kg
+**몸무게:** 320.0 kg
 
-**특성:** opportunist, 통찰, 가속
+**특성:** protosynthesis
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/espathra.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/espathra.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/984.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/956.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/956.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/984.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/984.ogg)
 
 
 ---
