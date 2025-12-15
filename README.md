@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-16 04:52:25 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-16 04:58:43 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 베라카스 (ID: 954)
-**영어 이름:** Rabsca
+# 케오퍼스 (ID: 853)
+**영어 이름:** Grapploct
 
-**타입:** 벌레, 에스퍼
+**타입:** 격투
 
-**키:** 0.3 m
+**키:** 1.6 m
 
-**몸무게:** 3.5 kg
+**몸무게:** 39.0 kg
 
-**특성:** 싱크로, 텔레파시
+**특성:** 유연, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rabsca.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rabsca.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/grapploct.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/grapploct.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/853.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/853.ogg)
 
 
 ---
