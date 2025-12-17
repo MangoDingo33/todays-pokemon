@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-17 13:21:46 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-17 13:48:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 줄뮤마 (ID: 522)
-**영어 이름:** Blitzle
+# 빙큐보 (ID: 875)
+**영어 이름:** Eiscue-Ice
 
-**타입:** 전기
+**타입:** 얼음
 
-**키:** 0.8 m
+**키:** 1.4 m
 
-**몸무게:** 29.8 kg
+**몸무게:** 89.0 kg
 
-**특성:** 피뢰침, 전기엔진, 초식
+**특성:** 아이스페이스
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/blitzle.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/blitzle.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/875.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/522.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/522.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/875.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/875.ogg)
 
 
 ---
