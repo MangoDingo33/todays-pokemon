@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-17 15:14:48 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-17 15:49:41 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 코코파스 (ID: 299)
-**영어 이름:** Nosepass
+# 루리리 (ID: 298)
+**영어 이름:** Azurill
 
-**타입:** 바위
+**타입:** 노말, 페어리
 
-**키:** 1.0 m
+**키:** 0.2 m
 
-**몸무게:** 97.0 kg
+**몸무게:** 2.0 kg
 
-**특성:** 옹골참, 자력, 모래의힘
+**특성:** 두꺼운지방, 천하장사, 초식
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/nosepass.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/nosepass.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/azurill.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/azurill.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/299.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/299.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/298.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/298.ogg)
 
 
 ---
