@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-20 01:17:29 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-20 01:44:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 크리만 (ID: 621)
-**영어 이름:** Druddigon
+# 개무소 (ID: 265)
+**영어 이름:** Wurmple
 
-**타입:** 드래곤
+**타입:** 벌레
 
-**키:** 1.6 m
+**키:** 0.3 m
 
-**몸무게:** 139.0 kg
+**몸무게:** 3.6 kg
 
-**특성:** 까칠한피부, 우격다짐, 틀깨기
+**특성:** 인분, 도주
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/druddigon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/druddigon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/wurmple.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/wurmple.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/621.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/621.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/265.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/265.ogg)
 
 
 ---
