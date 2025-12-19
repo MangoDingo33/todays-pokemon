@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-20 00:12:07 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-20 00:34:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 라이코 (ID: 243)
-**영어 이름:** Raikou
+# 나몰빼미 (ID: 722)
+**영어 이름:** Rowlet
 
-**타입:** 전기
+**타입:** 풀, 비행
 
-**키:** 1.9 m
+**키:** 0.3 m
 
-**몸무게:** 178.0 kg
+**몸무게:** 1.5 kg
 
-**특성:** 프레셔, 정신력
+**특성:** 심록, 원격
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/raikou.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/raikou.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/rowlet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rowlet.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/243.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/243.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/722.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/722.ogg)
 
 
 ---
