@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-23 04:26:59 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-23 04:36:13 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 디아루가 (ID: 483)
-**영어 이름:** Dialga
+# 주리비얀 (ID: 495)
+**영어 이름:** Snivy
 
-**타입:** 강철, 드래곤
+**타입:** 풀
 
-**키:** 5.4 m
+**키:** 0.6 m
 
-**몸무게:** 683.0 kg
+**몸무게:** 8.1 kg
 
-**특성:** 프레셔, 텔레파시
+**특성:** 심록, 심술꾸러기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dialga.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dialga.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/snivy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/snivy.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/483.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/483.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/495.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/495.ogg)
 
 
 ---
