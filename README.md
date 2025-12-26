@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-26 12:02:10 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-26 13:00:48 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 터검니 (ID: 610)
-**영어 이름:** Axew
+# 마샤도 (ID: 802)
+**영어 이름:** Marshadow
 
-**타입:** 드래곤
+**타입:** 격투, 고스트
 
-**키:** 0.6 m
+**키:** 0.7 m
 
-**몸무게:** 18.0 kg
+**몸무게:** 22.2 kg
 
-**특성:** 투쟁심, 틀깨기, 긴장감
+**특성:** 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/axew.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/axew.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/marshadow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/marshadow.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/610.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/610.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/802.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/802.ogg)
 
 
 ---
