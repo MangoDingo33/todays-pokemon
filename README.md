@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-28 06:41:36 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-28 06:48:25 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 위유이 (ID: 1004)
-**영어 이름:** Chi-Yu
+# 야느와르몽 (ID: 477)
+**영어 이름:** Dusknoir
 
-**타입:** 악, 불꽃
+**타입:** 고스트
 
-**키:** 0.4 m
+**키:** 2.2 m
 
-**몸무게:** 4.9 kg
+**몸무게:** 106.6 kg
 
-**특성:** beads-of-ruin
+**특성:** 프레셔, 통찰
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1004.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dusknoir.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dusknoir.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1004.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1004.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/477.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/477.ogg)
 
 
 ---
