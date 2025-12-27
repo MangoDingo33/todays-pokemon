@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-28 03:46:13 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-28 03:57:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 또가스 (ID: 109)
-**영어 이름:** Koffing
+# 피그점프 (ID: 325)
+**영어 이름:** Spoink
 
-**타입:** 독
+**타입:** 에스퍼
 
-**키:** 0.6 m
+**키:** 0.7 m
 
-**몸무게:** 1.0 kg
+**몸무게:** 30.6 kg
 
-**특성:** 부유, 화학변화가스, 악취
+**특성:** 두꺼운지방, 마이페이스, 먹보
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/koffing.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/koffing.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/spoink.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/spoink.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/109.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/325.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/325.ogg)
 
 
 ---
