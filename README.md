@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-27 16:34:34 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-27 16:42:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 루카리오 (ID: 448)
-**영어 이름:** Lucario
+# 마그마번 (ID: 467)
+**영어 이름:** Magmortar
 
-**타입:** 격투, 강철
+**타입:** 불꽃
 
-**키:** 1.2 m
+**키:** 1.6 m
 
-**몸무게:** 54.0 kg
+**몸무게:** 68.0 kg
 
-**특성:** 불굴의마음, 정신력, 정의의마음
+**특성:** 불꽃몸, 의기양양
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lucario.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/magmortar.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/magmortar.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/448.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/448.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/467.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/467.ogg)
 
 
 ---
