@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-28 22:38:06 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-28 22:49:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 우라오스 (ID: 892)
-**영어 이름:** Urshifu-Single-Strike
+# 브리무음 (ID: 858)
+**영어 이름:** Hatterene
 
-**타입:** 격투, 악
+**타입:** 에스퍼, 페어리
 
-**키:** 1.9 m
+**키:** 2.1 m
 
-**몸무게:** 105.0 kg
+**몸무게:** 5.1 kg
 
-**특성:** 보이지않는주먹
+**특성:** 치유의마음, 위험예지, 매직미러
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/892.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/hatterene.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hatterene.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/892.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/892.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/858.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/858.ogg)
 
 
 ---
