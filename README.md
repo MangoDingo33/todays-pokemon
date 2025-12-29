@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-30 03:53:13 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-30 04:00:34 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 네이티 (ID: 177)
-**영어 이름:** Natu
+# 트로피우스 (ID: 357)
+**영어 이름:** Tropius
 
-**타입:** 에스퍼, 비행
+**타입:** 풀, 비행
 
-**키:** 0.2 m
+**키:** 2.0 m
 
-**몸무게:** 2.0 kg
+**몸무게:** 100.0 kg
 
-**특성:** 싱크로, 일찍기상, 매직미러
+**특성:** 엽록소, 선파워, 수확
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/natu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/natu.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tropius.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tropius.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/357.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/357.ogg)
 
 
 ---
