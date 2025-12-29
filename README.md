@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-30 02:59:03 (KST) ⏳
+⏳ 업데이트 시간: 2025-12-30 03:30:55 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 케르디오 (ID: 647)
-**영어 이름:** Keldeo-Ordinary
+# 불비달마 (ID: 555)
+**영어 이름:** Darmanitan-Standard
 
-**타입:** 물, 격투
+**타입:** 불꽃
 
-**키:** 1.4 m
+**키:** 1.3 m
 
-**몸무게:** 48.5 kg
+**몸무게:** 92.9 kg
 
-**특성:** 정의의마음
+**특성:** 우격다짐, 달마모드
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/647.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/555.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/647.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/647.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/555.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/555.ogg)
 
 
 ---
