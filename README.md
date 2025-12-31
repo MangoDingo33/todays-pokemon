@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2025-12-31 23:58:23 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-01 00:19:43 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 니드리노 (ID: 33)
-**영어 이름:** Nidorino
+# 비조푸 (ID: 619)
+**영어 이름:** Mienfoo
 
-**타입:** 독
+**타입:** 격투
 
 **키:** 0.9 m
 
-**몸무게:** 19.5 kg
+**몸무게:** 20.0 kg
 
-**특성:** 독가시, 투쟁심, 의욕
+**특성:** 정신력, 재생력, 이판사판
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/nidorino.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/nidorino.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/mienfoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mienfoo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/33.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/33.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/619.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/619.ogg)
 
 
 ---
