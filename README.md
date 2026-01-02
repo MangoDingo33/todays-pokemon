@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-02 19:40:02 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-02 19:51:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 장크로다일 (ID: 160)
-**영어 이름:** Feraligatr
+# 캐스퐁 (ID: 351)
+**영어 이름:** Castform
 
-**타입:** 물
+**타입:** 노말
 
-**키:** 2.3 m
+**키:** 0.3 m
 
-**몸무게:** 88.8 kg
+**몸무게:** 0.8 kg
 
-**특성:** 급류, 우격다짐
+**특성:** 기분파
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/feraligatr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/feraligatr.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/castform.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/castform.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/351.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/351.ogg)
 
 
 ---
