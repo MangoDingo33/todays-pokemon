@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-03 03:28:55 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-03 03:51:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 트래피더 (ID: 918)
-**영어 이름:** Spidops
+# 해피너스 (ID: 242)
+**영어 이름:** Blissey
 
-**타입:** 벌레
+**타입:** 노말
 
-**키:** 1.0 m
+**키:** 1.5 m
 
-**몸무게:** 16.5 kg
+**몸무게:** 46.8 kg
 
-**특성:** 불면, 잠복
+**특성:** 자연회복, 하늘의은총, 치유의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/spidops.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/spidops.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/blissey.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/blissey.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/918.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/918.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/242.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/242.ogg)
 
 
 ---
