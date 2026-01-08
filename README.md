@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-09 05:58:40 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-09 06:20:15 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 레디안 (ID: 166)
-**영어 이름:** Ledian
+# 블래키 (ID: 197)
+**영어 이름:** Umbreon
 
-**타입:** 벌레, 비행
+**타입:** 악
 
-**키:** 1.4 m
+**키:** 1.0 m
 
-**몸무게:** 35.6 kg
+**몸무게:** 27.0 kg
 
-**특성:** 벌레의알림, 일찍기상, 철주먹
+**특성:** 싱크로, 정신력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ledian.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ledian.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/umbreon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/umbreon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/197.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/197.ogg)
 
 
 ---
