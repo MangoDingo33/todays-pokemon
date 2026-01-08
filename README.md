@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-08 16:35:40 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-08 16:47:49 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 라플레시아 (ID: 45)
-**영어 이름:** Vileplume
+# 에블리 (ID: 742)
+**영어 이름:** Cutiefly
 
-**타입:** 풀, 독
+**타입:** 벌레, 페어리
 
-**키:** 1.2 m
+**키:** 0.1 m
 
-**몸무게:** 18.6 kg
+**몸무게:** 0.2 kg
 
-**특성:** 엽록소, 포자
+**특성:** 꿀모으기, 인분, 스위트베일
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/vileplume.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vileplume.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cutiefly.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cutiefly.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/45.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/45.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/742.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/742.ogg)
 
 
 ---
