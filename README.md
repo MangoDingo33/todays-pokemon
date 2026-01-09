@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-10 07:10:02 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-10 07:35:09 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 에브이 (ID: 196)
-**영어 이름:** Espeon
+# 악뜨거 (ID: 910)
+**영어 이름:** Crocalor
 
-**타입:** 에스퍼
+**타입:** 불꽃
 
-**키:** 0.9 m
+**키:** 1.0 m
 
-**몸무게:** 26.5 kg
+**몸무게:** 30.7 kg
 
-**특성:** 싱크로, 매직미러
+**특성:** 맹화, 천진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/espeon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/espeon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/crocalor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/crocalor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/910.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/910.ogg)
 
 
 ---
