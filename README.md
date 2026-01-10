@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-11 08:00:22 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-11 08:23:09 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 롱스톤 (ID: 95)
-**영어 이름:** Onix
+# 냄새꼬 (ID: 44)
+**영어 이름:** Gloom
 
-**타입:** 바위, 땅
+**타입:** 풀, 독
 
-**키:** 8.8 m
+**키:** 0.8 m
 
-**몸무게:** 210.0 kg
+**몸무게:** 8.6 kg
 
-**특성:** 돌머리, 옹골참, 깨어진갑옷
+**특성:** 엽록소, 악취
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/onix.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/onix.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gloom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gloom.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/95.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/95.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/44.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/44.ogg)
 
 
 ---
