@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-10 22:55:28 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-10 23:11:26 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 맘박쥐 (ID: 528)
-**영어 이름:** Swoobat
+# 두빅굴 (ID: 537)
+**영어 이름:** Seismitoad
 
-**타입:** 에스퍼, 비행
+**타입:** 물, 땅
 
-**키:** 0.9 m
+**키:** 1.5 m
 
-**몸무게:** 10.5 kg
+**몸무게:** 62.0 kg
 
-**특성:** 천진, 서투름, 단순
+**특성:** 쓱쓱, 독수, 저수
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/swoobat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swoobat.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/seismitoad.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/seismitoad.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/537.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/537.ogg)
 
 
 ---
