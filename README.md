@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-13 06:59:31 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-13 07:20:30 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 흉내내 (ID: 439)
-**영어 이름:** Mime-Jr
+# 니드리나 (ID: 30)
+**영어 이름:** Nidorina
 
-**타입:** 에스퍼, 페어리
+**타입:** 독
 
-**키:** 0.6 m
+**키:** 0.8 m
 
-**몸무게:** 13.0 kg
+**몸무게:** 20.0 kg
 
-**특성:** 방음, 필터, 테크니션
+**특성:** 독가시, 투쟁심, 의욕
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/439.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/nidorina.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/nidorina.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/439.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/439.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/30.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/30.ogg)
 
 
 ---
