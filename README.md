@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-14 23:14:34 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-14 23:44:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 이브이 (ID: 133)
-**영어 이름:** Eevee
+# 메깅 (ID: 340)
+**영어 이름:** Whiscash
 
-**타입:** 노말
+**타입:** 물, 땅
 
-**키:** 0.3 m
+**키:** 0.9 m
 
-**몸무게:** 6.5 kg
+**몸무게:** 23.6 kg
 
-**특성:** 도주, 적응력, 위험예지
+**특성:** 둔감, 위험예지, 촉촉바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/eevee.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/whiscash.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/whiscash.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/133.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/133.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/340.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/340.ogg)
 
 
 ---
