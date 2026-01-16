@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-17 00:39:46 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-17 00:52:35 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 롱스톤 (ID: 95)
-**영어 이름:** Onix
+# 버프론 (ID: 626)
+**영어 이름:** Bouffalant
 
-**타입:** 바위, 땅
+**타입:** 노말
 
-**키:** 8.8 m
+**키:** 1.6 m
 
-**몸무게:** 210.0 kg
+**몸무게:** 94.6 kg
 
-**특성:** 돌머리, 옹골참, 깨어진갑옷
+**특성:** 이판사판, 초식, 방음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/onix.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/onix.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/bouffalant.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bouffalant.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/95.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/95.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/626.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/626.ogg)
 
 
 ---
