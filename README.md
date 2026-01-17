@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-18 05:33:51 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-18 05:45:44 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 다꼬리 (ID: 162)
-**영어 이름:** Furret
+# 캐터피 (ID: 10)
+**영어 이름:** Caterpie
 
-**타입:** 노말
+**타입:** 벌레
 
-**키:** 1.8 m
+**키:** 0.3 m
 
-**몸무게:** 32.5 kg
+**몸무게:** 2.9 kg
 
-**특성:** 도주, 날카로운눈, 통찰
+**특성:** 인분, 도주
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/furret.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/furret.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/caterpie.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/caterpie.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10.ogg)
 
 
 ---
