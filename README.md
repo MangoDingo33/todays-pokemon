@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-18 05:12:48 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-18 05:33:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 치릴리 (ID: 548)
-**영어 이름:** Petilil
+# 다꼬리 (ID: 162)
+**영어 이름:** Furret
 
-**타입:** 풀
+**타입:** 노말
 
-**키:** 0.5 m
+**키:** 1.8 m
 
-**몸무게:** 6.6 kg
+**몸무게:** 32.5 kg
 
-**특성:** 엽록소, 마이페이스, 리프가드
+**특성:** 도주, 날카로운눈, 통찰
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/petilil.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/petilil.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/furret.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/furret.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/548.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/548.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg)
 
 
 ---
