@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-18 16:45:59 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-18 16:52:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 그우린차 (ID: 1013)
-**영어 이름:** Sinistcha
+# 쏘콘 (ID: 205)
+**영어 이름:** Forretress
 
-**타입:** 풀, 고스트
+**타입:** 벌레, 강철
 
-**키:** 0.2 m
+**키:** 1.2 m
 
-**몸무게:** 2.2 kg
+**몸무게:** 125.8 kg
 
-**특성:** 대접, 내열
+**특성:** 옹골참, 방진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/sinistcha.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sinistcha.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/forretress.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/forretress.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1013.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1013.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/205.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/205.ogg)
 
 
 ---
