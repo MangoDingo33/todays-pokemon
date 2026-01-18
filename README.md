@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-18 17:27:07 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-18 17:47:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 기로치 (ID: 1016)
-**영어 이름:** Fezandipiti
+# 악비아르 (ID: 553)
+**영어 이름:** Krookodile
 
-**타입:** 독, 페어리
+**타입:** 땅, 악
 
-**키:** 1.4 m
+**키:** 1.5 m
 
-**몸무게:** 30.1 kg
+**몸무게:** 96.3 kg
 
-**특성:** 독사슬, 테크니션
+**특성:** 위협, 자기과신, 분노의경혈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1016.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/krookodile.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/krookodile.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1016.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1016.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg)
 
 
 ---
