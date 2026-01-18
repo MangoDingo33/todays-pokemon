@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-19 04:54:07 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-19 05:10:05 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 뚜벅쵸 (ID: 43)
-**영어 이름:** Oddish
+# 플라제스 (ID: 671)
+**영어 이름:** Florges
 
-**타입:** 풀, 독
+**타입:** 페어리
 
-**키:** 0.5 m
+**키:** 1.1 m
 
-**몸무게:** 5.4 kg
+**몸무게:** 10.0 kg
 
-**특성:** 엽록소, 도주
+**특성:** 플라워베일, 공생
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/oddish.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/oddish.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/florges.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/florges.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/43.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/43.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/671.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/671.ogg)
 
 
 ---
