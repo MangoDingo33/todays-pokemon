@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-20 06:33:12 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-20 06:45:22 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 스왈로 (ID: 277)
-**영어 이름:** Swellow
+# 뮤츠 (ID: 150)
+**영어 이름:** Mewtwo
 
-**타입:** 노말, 비행
+**타입:** 에스퍼
 
-**키:** 0.7 m
+**키:** 2.0 m
 
-**몸무게:** 19.8 kg
+**몸무게:** 122.0 kg
 
-**특성:** 근성, 배짱
+**특성:** 프레셔, 긴장감
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/swellow.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swellow.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/mewtwo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/277.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/277.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg)
 
 
 ---
