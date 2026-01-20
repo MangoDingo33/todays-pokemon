@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-20 23:35:51 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-21 00:00:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 왕자리 (ID: 193)
-**영어 이름:** Yanma
+# 내룸벨트 (ID: 463)
+**영어 이름:** Lickilicky
 
-**타입:** 벌레, 비행
+**타입:** 노말
 
-**키:** 1.2 m
+**키:** 1.7 m
 
-**몸무게:** 38.0 kg
+**몸무게:** 140.0 kg
 
-**특성:** 가속, 복안, 통찰
+**특성:** 마이페이스, 둔감, 날씨부정
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/yanma.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/yanma.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/lickilicky.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lickilicky.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/463.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/463.ogg)
 
 
 ---
