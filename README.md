@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-20 14:48:11 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-20 14:59:36 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 리오르 (ID: 447)
-**영어 이름:** Riolu
+# 빈나두 (ID: 938)
+**영어 이름:** Tadbulb
 
-**타입:** 격투
+**타입:** 전기
 
-**키:** 0.7 m
+**키:** 0.3 m
 
-**몸무게:** 20.2 kg
+**몸무게:** 0.4 kg
 
-**특성:** 불굴의마음, 정신력, 짓궂은마음
+**특성:** 마이페이스, 정전기, 습기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/riolu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/riolu.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tadbulb.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tadbulb.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/447.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/447.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg)
 
 
 ---
