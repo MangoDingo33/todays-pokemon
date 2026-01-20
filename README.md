@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-20 13:12:28 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-20 13:55:48 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 프테라 (ID: 142)
-**영어 이름:** Aerodactyl
+# 카포에라 (ID: 237)
+**영어 이름:** Hitmontop
 
-**타입:** 바위, 비행
+**타입:** 격투
 
-**키:** 1.8 m
+**키:** 1.4 m
 
-**몸무게:** 59.0 kg
+**몸무게:** 48.0 kg
 
-**특성:** 돌머리, 프레셔, 긴장감
+**특성:** 위협, 테크니션, 불굴의마음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/aerodactyl.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/aerodactyl.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/hitmontop.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hitmontop.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/142.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/142.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/237.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/237.ogg)
 
 
 ---
