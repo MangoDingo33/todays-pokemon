@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-21 08:37:29 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-21 08:50:17 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 버터플 (ID: 12)
-**영어 이름:** Butterfree
+# 산호르곤 (ID: 864)
+**영어 이름:** Cursola
 
-**타입:** 벌레, 비행
+**타입:** 고스트
 
-**키:** 1.1 m
+**키:** 1.0 m
 
-**몸무게:** 32.0 kg
+**몸무게:** 0.4 kg
 
-**특성:** 복안, 색안경
+**특성:** 깨어진갑옷, 멸망의바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/butterfree.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/butterfree.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cursola.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cursola.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/12.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/12.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/864.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/864.ogg)
 
 
 ---
