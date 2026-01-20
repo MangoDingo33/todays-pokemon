@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-20 20:30:47 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-20 20:46:11 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 드니꽁 (ID: 997)
-**영어 이름:** Arctibax
+# 떨구새 (ID: 962)
+**영어 이름:** Bombirdier
 
-**타입:** 드래곤, 얼음
+**타입:** 비행, 악
 
-**키:** 0.8 m
+**키:** 1.5 m
 
-**몸무게:** 30.0 kg
+**몸무게:** 42.9 kg
 
-**특성:** thermal-exchange, 아이스바디
+**특성:** 부풀린가슴, 날카로운눈, rocky-payload
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/arctibax.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/arctibax.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/bombirdier.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bombirdier.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/997.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/997.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/962.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/962.ogg)
 
 
 ---
