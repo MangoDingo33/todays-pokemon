@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-21 15:38:32 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-21 16:03:39 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 너트령 (ID: 598)
-**영어 이름:** Ferrothorn
+# 토쇠골 (ID: 533)
+**영어 이름:** Gurdurr
 
-**타입:** 풀, 강철
+**타입:** 격투
 
-**키:** 1.0 m
+**키:** 1.2 m
 
-**몸무게:** 110.0 kg
+**몸무게:** 40.0 kg
 
-**특성:** 철가시, 위험예지
+**특성:** 근성, 우격다짐, 철주먹
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ferrothorn.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ferrothorn.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gurdurr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gurdurr.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg)
 
 
 ---
