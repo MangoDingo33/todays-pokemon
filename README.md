@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-25 02:31:43 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-25 02:43:58 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 빼미스로우 (ID: 723)
-**영어 이름:** Dartrix
+# 우렁찬꼬리 (ID: 985)
+**영어 이름:** Scream-Tail
 
-**타입:** 풀, 비행
+**타입:** 페어리, 에스퍼
 
-**키:** 0.7 m
+**키:** 1.2 m
 
-**몸무게:** 16.0 kg
+**몸무게:** 8.0 kg
 
-**특성:** 심록, 원격
+**특성:** protosynthesis
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dartrix.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dartrix.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/723.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/723.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg)
 
 
 ---
