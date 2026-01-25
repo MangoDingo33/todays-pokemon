@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-01-25 13:34:50 (KST) ⏳
+⏳ 업데이트 시간: 2026-01-25 14:05:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 콜로솔트 (ID: 934)
-**영어 이름:** Garganacl
+# 뚜꾸리 (ID: 498)
+**영어 이름:** Tepig
 
-**타입:** 바위
+**타입:** 불꽃
 
-**키:** 2.3 m
+**키:** 0.5 m
 
-**몸무게:** 240.0 kg
+**몸무게:** 9.9 kg
 
-**특성:** purifying-salt, 옹골참, 클리어바디
+**특성:** 맹화, 두꺼운지방
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/garganacl.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/garganacl.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tepig.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tepig.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/934.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/934.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/498.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/498.ogg)
 
 
 ---
