@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-02 17:57:06 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-02 18:41:19 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 썬더 (ID: 145)
-**영어 이름:** Zapdos
+# 비브라바 (ID: 329)
+**영어 이름:** Vibrava
 
-**타입:** 전기, 비행
+**타입:** 땅, 드래곤
 
-**키:** 1.6 m
+**키:** 1.1 m
 
-**몸무게:** 52.6 kg
+**몸무게:** 15.3 kg
 
-**특성:** 프레셔, 정전기
+**특성:** 부유
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/zapdos.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zapdos.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/vibrava.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vibrava.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/329.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/329.ogg)
 
 
 ---
