@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-05 18:26:30 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-05 19:06:49 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 네오비트 (ID: 314)
-**영어 이름:** Illumise
+# 테라파고스 (ID: 1024)
+**영어 이름:** Terapagos
 
-**타입:** 벌레
+**타입:** 노말
 
-**키:** 0.6 m
+**키:** 0.2 m
 
-**몸무게:** 17.7 kg
+**몸무게:** 6.5 kg
 
-**특성:** 둔감, 색안경, 짓궂은마음
+**특성:** 테라체인지
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/illumise.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/illumise.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1024.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/314.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/314.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1024.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1024.ogg)
 
 
 ---
