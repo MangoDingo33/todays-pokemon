@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-07 18:59:48 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-07 19:29:08 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 무쇠바퀴 (ID: 990)
-**영어 이름:** Iron-Treads
+# 딩루 (ID: 1003)
+**영어 이름:** Ting-Lu
 
-**타입:** 땅, 강철
+**타입:** 악, 땅
 
-**키:** 0.9 m
+**키:** 2.7 m
 
-**몸무게:** 240.0 kg
+**몸무게:** 699.7 kg
 
-**특성:** quark-drive
+**특성:** vessel-of-ruin
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/990.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1003.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/990.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/990.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1003.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1003.ogg)
 
 
 ---
