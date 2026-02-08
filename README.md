@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-09 03:44:36 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-09 04:12:54 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 조로아 (ID: 570)
-**영어 이름:** Zorua
+# 복숭악동 (ID: 1025)
+**영어 이름:** Pecharunt
 
-**타입:** 악
+**타입:** 독, 고스트
 
-**키:** 0.7 m
+**키:** 0.3 m
 
-**몸무게:** 12.5 kg
+**몸무게:** 0.3 kg
 
-**특성:** 일루전
+**특성:** 독조종
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/zorua.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zorua.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1025.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/570.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/570.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1025.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1025.ogg)
 
 
 ---
