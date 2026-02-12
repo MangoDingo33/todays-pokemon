@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-13 08:14:44 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-13 08:45:41 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 찌리비크 (ID: 941)
-**영어 이름:** Kilowattrel
+# 빈나두 (ID: 938)
+**영어 이름:** Tadbulb
 
-**타입:** 전기, 비행
+**타입:** 전기
 
-**키:** 1.4 m
+**키:** 0.3 m
 
-**몸무게:** 38.6 kg
+**몸무게:** 0.4 kg
 
-**특성:** wind-power, 축전, 승기
+**특성:** 마이페이스, 정전기, 습기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/kilowattrel.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kilowattrel.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tadbulb.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tadbulb.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/941.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/941.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg)
 
 
 ---
