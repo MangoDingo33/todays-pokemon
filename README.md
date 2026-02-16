@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-16 18:02:05 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-16 19:02:48 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 도나리 (ID: 49)
-**영어 이름:** Venomoth
+# 쉘곤 (ID: 372)
+**영어 이름:** Shelgon
 
-**타입:** 벌레, 독
+**타입:** 드래곤
 
-**키:** 1.5 m
+**키:** 1.1 m
 
-**몸무게:** 12.5 kg
+**몸무게:** 110.5 kg
 
-**특성:** 인분, 색안경, 미라클스킨
+**특성:** 돌머리, 방진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/venomoth.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/venomoth.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/shelgon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shelgon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/49.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/49.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/372.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/372.ogg)
 
 
 ---
