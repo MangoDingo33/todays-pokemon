@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-16 19:57:41 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-16 20:37:41 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 네오비트 (ID: 314)
-**영어 이름:** Illumise
+# 킬라플로르 (ID: 970)
+**영어 이름:** Glimmora
 
-**타입:** 벌레
+**타입:** 바위, 독
 
-**키:** 0.6 m
+**키:** 1.5 m
 
-**몸무게:** 17.7 kg
+**몸무게:** 45.0 kg
 
-**특성:** 둔감, 색안경, 짓궂은마음
+**특성:** toxic-debris, 부식
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/illumise.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/illumise.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/glimmora.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/glimmora.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/314.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/314.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/970.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/970.ogg)
 
 
 ---
