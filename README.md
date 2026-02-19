@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-20 08:02:13 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-20 08:38:19 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 시라칸 (ID: 369)
-**영어 이름:** Relicanth
+# 독파리 (ID: 73)
+**영어 이름:** Tentacruel
 
-**타입:** 물, 바위
+**타입:** 물, 독
 
-**키:** 1.0 m
+**키:** 1.6 m
 
-**몸무게:** 23.4 kg
+**몸무게:** 55.0 kg
 
-**특성:** 쓱쓱, 돌머리, 옹골참
+**특성:** 클리어바디, 해감액, 젖은접시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/relicanth.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/relicanth.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tentacruel.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tentacruel.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/369.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/369.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/73.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/73.ogg)
 
 
 ---
