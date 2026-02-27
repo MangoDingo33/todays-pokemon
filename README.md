@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-28 00:56:38 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-28 01:33:34 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 프로토가 (ID: 564)
-**영어 이름:** Tirtouga
+# 자시안 (ID: 888)
+**영어 이름:** Zacian
 
-**타입:** 물, 바위
+**타입:** 페어리
 
-**키:** 0.7 m
+**키:** 2.8 m
 
-**몸무게:** 16.5 kg
+**몸무게:** 110.0 kg
 
-**특성:** 하드록, 옹골참, 쓱쓱
+**특성:** 불요의검
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tirtouga.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tirtouga.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/zacian.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zacian.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/564.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/564.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/888.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/888.ogg)
 
 
 ---
