@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-01 06:11:45 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-01 06:32:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 지라치 (ID: 385)
-**영어 이름:** Jirachi
+# 워글 (ID: 628)
+**영어 이름:** Braviary
 
-**타입:** 강철, 에스퍼
+**타입:** 노말, 비행
 
-**키:** 0.3 m
+**키:** 1.5 m
 
-**몸무게:** 1.1 kg
+**몸무게:** 41.0 kg
 
-**특성:** 하늘의은총
+**특성:** 날카로운눈, 우격다짐, 오기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/jirachi.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/jirachi.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/braviary.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/braviary.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/385.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/385.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/628.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/628.ogg)
 
 
 ---
