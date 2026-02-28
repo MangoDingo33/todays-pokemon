@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-02-28 16:53:08 (KST) ⏳
+⏳ 업데이트 시간: 2026-02-28 16:59:54 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 딜리버드 (ID: 225)
-**영어 이름:** Delibird
+# 강철톤 (ID: 208)
+**영어 이름:** Steelix
 
-**타입:** 얼음, 비행
+**타입:** 강철, 땅
 
-**키:** 0.9 m
+**키:** 9.2 m
 
-**몸무게:** 16.0 kg
+**몸무게:** 400.0 kg
 
-**특성:** 의기양양, 의욕, 불면
+**특성:** 돌머리, 옹골참, 우격다짐
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/delibird.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/delibird.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/steelix.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/steelix.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/225.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/225.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/208.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/208.ogg)
 
 
 ---
