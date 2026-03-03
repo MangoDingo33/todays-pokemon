@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-03 23:56:19 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-04 00:40:28 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 뿔카노 (ID: 111)
-**영어 이름:** Rhyhorn
+# 먹고자 (ID: 446)
+**영어 이름:** Munchlax
 
-**타입:** 땅, 바위
+**타입:** 노말
 
-**키:** 1.0 m
+**키:** 0.6 m
 
-**몸무게:** 115.0 kg
+**몸무게:** 105.0 kg
 
-**특성:** 피뢰침, 돌머리, 이판사판
+**특성:** 픽업, 두꺼운지방, 먹보
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rhyhorn.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rhyhorn.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/munchlax.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/munchlax.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/446.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/446.ogg)
 
 
 ---
