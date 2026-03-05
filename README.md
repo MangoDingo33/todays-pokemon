@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-05 21:02:40 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-05 22:19:56 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 기기기어르 (ID: 601)
-**영어 이름:** Klinklang
+# 다크펫 (ID: 354)
+**영어 이름:** Banette
 
-**타입:** 강철
+**타입:** 고스트
 
-**키:** 0.6 m
+**키:** 1.1 m
 
-**몸무게:** 81.0 kg
+**몸무게:** 12.5 kg
 
-**특성:** 플러스, 마이너스, 클리어바디
+**특성:** 불면, 통찰, 저주받은바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/klinklang.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/klinklang.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/banette.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/banette.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/601.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/601.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/354.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/354.ogg)
 
 
 ---
