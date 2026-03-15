@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-16 02:28:09 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-16 02:52:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 마크탕 (ID: 296)
-**영어 이름:** Makuhita
+# 쌍검킬 (ID: 680)
+**영어 이름:** Doublade
 
-**타입:** 격투
+**타입:** 강철, 고스트
 
-**키:** 1.0 m
+**키:** 0.8 m
 
-**몸무게:** 86.4 kg
+**몸무게:** 4.5 kg
 
-**특성:** 두꺼운지방, 근성, 우격다짐
+**특성:** 노가드
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/makuhita.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/makuhita.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/doublade.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/doublade.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/296.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/296.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/680.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/680.ogg)
 
 
 ---
