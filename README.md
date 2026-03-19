@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-19 17:56:24 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-19 18:36:04 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 복숭악동 (ID: 1025)
-**영어 이름:** Pecharunt
+# 쥬레곤 (ID: 87)
+**영어 이름:** Dewgong
 
-**타입:** 독, 고스트
+**타입:** 물, 얼음
 
-**키:** 0.3 m
+**키:** 1.7 m
 
-**몸무게:** 0.3 kg
+**몸무게:** 120.0 kg
 
-**특성:** 독조종
+**특성:** 두꺼운지방, 촉촉바디, 아이스바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1025.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dewgong.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dewgong.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1025.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1025.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/87.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/87.ogg)
 
 
 ---
