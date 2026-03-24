@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-25 07:51:07 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-25 08:17:22 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 흉내내 (ID: 439)
-**영어 이름:** Mime-Jr
+# 수리둥보 (ID: 627)
+**영어 이름:** Rufflet
 
-**타입:** 에스퍼, 페어리
+**타입:** 노말, 비행
 
-**키:** 0.6 m
+**키:** 0.5 m
 
-**몸무게:** 13.0 kg
+**몸무게:** 10.5 kg
 
-**특성:** 방음, 필터, 테크니션
+**특성:** 날카로운눈, 우격다짐, 의욕
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/439.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/rufflet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rufflet.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/439.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/439.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/627.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/627.ogg)
 
 
 ---
