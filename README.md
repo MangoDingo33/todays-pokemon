@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-26 22:52:11 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-26 23:53:50 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 베라카스 (ID: 954)
-**영어 이름:** Rabsca
+# 앤티골 (ID: 631)
+**영어 이름:** Heatmor
 
-**타입:** 벌레, 에스퍼
+**타입:** 불꽃
 
-**키:** 0.3 m
+**키:** 1.4 m
 
-**몸무게:** 3.5 kg
+**몸무게:** 58.0 kg
 
-**특성:** 싱크로, 텔레파시
+**특성:** 먹보, 타오르는불꽃, 하얀연기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rabsca.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rabsca.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/heatmor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/heatmor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/631.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/631.ogg)
 
 
 ---
