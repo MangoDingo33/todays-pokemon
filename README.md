@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-03-28 06:21:17 (KST) ⏳
+⏳ 업데이트 시간: 2026-03-28 06:53:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 멍파치 (ID: 835)
-**영어 이름:** Yamper
+# 무쇠잎새 (ID: 1010)
+**영어 이름:** Iron-Leaves
 
-**타입:** 전기
+**타입:** 풀, 에스퍼
 
-**키:** 0.3 m
+**키:** 1.5 m
 
-**몸무게:** 13.5 kg
+**몸무게:** 125.0 kg
 
-**특성:** 볼줍기, 주눅
+**특성:** quark-drive
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/yamper.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/yamper.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1010.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/835.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/835.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1010.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1010.ogg)
 
 
 ---
