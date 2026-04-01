@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-04-02 07:50:57 (KST) ⏳
+⏳ 업데이트 시간: 2026-04-02 08:23:50 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 베이리프 (ID: 153)
-**영어 이름:** Bayleef
+# 더스트나 (ID: 569)
+**영어 이름:** Garbodor
 
-**타입:** 풀
+**타입:** 독
 
-**키:** 1.2 m
+**키:** 1.9 m
 
-**몸무게:** 15.8 kg
+**몸무게:** 107.3 kg
 
-**특성:** 심록, 리프가드
+**특성:** 악취, 깨어진갑옷, 유폭
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/bayleef.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bayleef.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/garbodor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/garbodor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/153.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/153.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/569.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/569.ogg)
 
 
 ---
