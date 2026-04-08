@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-04-08 10:02:24 (KST) ⏳
+⏳ 업데이트 시간: 2026-04-08 12:54:42 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 거북손손 (ID: 688)
-**영어 이름:** Binacle
+# 플라베베 (ID: 669)
+**영어 이름:** Flabebe
 
-**타입:** 바위, 물
+**타입:** 페어리
 
-**키:** 0.5 m
+**키:** 0.1 m
 
-**몸무게:** 31.0 kg
+**몸무게:** 0.1 kg
 
-**특성:** 단단한발톱, 스나이퍼, 나쁜손버릇
+**특성:** 플라워베일, 공생
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/binacle.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/binacle.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/flabebe.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/flabebe.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/688.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/688.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg)
 
 
 ---
