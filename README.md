@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-04-12 00:29:41 (KST) ⏳
+⏳ 업데이트 시간: 2026-04-12 00:56:14 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 킬리아 (ID: 281)
-**영어 이름:** Kirlia
+# 치고마 (ID: 891)
+**영어 이름:** Kubfu
 
-**타입:** 에스퍼, 페어리
+**타입:** 격투
 
-**키:** 0.8 m
+**키:** 0.6 m
 
-**몸무게:** 20.2 kg
+**몸무게:** 12.0 kg
 
-**특성:** 싱크로, 트레이스, 텔레파시
+**특성:** 정신력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/kirlia.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kirlia.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/kubfu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/kubfu.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/281.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/281.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/891.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/891.ogg)
 
 
 ---
