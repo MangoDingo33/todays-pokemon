@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-04-27 17:41:22 (KST) ⏳
+⏳ 업데이트 시간: 2026-04-27 19:34:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 쌍검킬 (ID: 680)
-**영어 이름:** Doublade
+# 싸리용 (ID: 978)
+**영어 이름:** Tatsugiri-Curly
 
-**타입:** 강철, 고스트
+**타입:** 드래곤, 물
 
-**키:** 0.8 m
+**키:** 0.3 m
 
-**몸무게:** 4.5 kg
+**몸무게:** 8.0 kg
 
-**특성:** 노가드
+**특성:** commander, 마중물
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/doublade.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/doublade.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/978.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/680.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/680.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/978.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/978.ogg)
 
 
 ---
