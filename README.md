@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-10 05:09:21 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-10 05:59:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 날쌩마 (ID: 78)
-**영어 이름:** Rapidash
+# 맘박쥐 (ID: 528)
+**영어 이름:** Swoobat
 
-**타입:** 불꽃
+**타입:** 에스퍼, 비행
 
-**키:** 1.7 m
+**키:** 0.9 m
 
-**몸무게:** 95.0 kg
+**몸무게:** 10.5 kg
 
-**특성:** 도주, 타오르는불꽃, 불꽃몸
+**특성:** 천진, 서투름, 단순
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rapidash.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rapidash.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/swoobat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swoobat.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/78.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/78.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg)
 
 
 ---
