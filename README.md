@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-11 06:10:46 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-11 07:02:14 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 자루도 (ID: 893)
-**영어 이름:** Zarude
+# 파밀리쥐 (ID: 925)
+**영어 이름:** Maushold-Family-Of-Four
 
-**타입:** 악, 풀
+**타입:** 노말
 
-**키:** 1.8 m
+**키:** 0.3 m
 
-**몸무게:** 70.0 kg
+**몸무게:** 2.8 kg
 
-**특성:** 리프가드
+**특성:** 프렌드가드, 볼주머니, 테크니션
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/zarude.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/zarude.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/925.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/893.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/893.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg)
 
 
 ---
