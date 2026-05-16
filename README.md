@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-16 08:30:06 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-16 10:15:21 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 미라몽 (ID: 356)
-**영어 이름:** Dusclops
+# 카푸꼬꼬꼭 (ID: 785)
+**영어 이름:** Tapu-Koko
 
-**타입:** 고스트
+**타입:** 전기, 페어리
 
-**키:** 1.6 m
+**키:** 1.8 m
 
-**몸무게:** 30.6 kg
+**몸무게:** 20.5 kg
 
-**특성:** 프레셔, 통찰
+**특성:** 일렉트릭메이커, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dusclops.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dusclops.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/356.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/356.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg)
 
 
 ---
