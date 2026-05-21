@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-22 00:49:29 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-22 02:46:38 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 통통코 (ID: 187)
-**영어 이름:** Hoppip
+# 샤비 (ID: 496)
+**영어 이름:** Servine
 
-**타입:** 풀, 비행
+**타입:** 풀
 
-**키:** 0.4 m
+**키:** 0.8 m
 
-**몸무게:** 0.5 kg
+**몸무게:** 16.0 kg
 
-**특성:** 엽록소, 리프가드, 틈새포착
+**특성:** 심록, 심술꾸러기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/hoppip.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/hoppip.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/servine.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/servine.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/496.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/496.ogg)
 
 
 ---
