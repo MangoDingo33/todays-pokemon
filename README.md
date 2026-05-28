@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-28 08:49:03 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-28 10:26:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 독개굴 (ID: 454)
-**영어 이름:** Toxicroak
+# 비버니 (ID: 399)
+**영어 이름:** Bidoof
 
-**타입:** 독, 격투
+**타입:** 노말
 
-**키:** 1.3 m
+**키:** 0.5 m
 
-**몸무게:** 44.4 kg
+**몸무게:** 20.0 kg
 
-**특성:** 위험예지, 건조피부, 독수
+**특성:** 단순, 천진, 변덕쟁이
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/toxicroak.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/toxicroak.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/bidoof.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bidoof.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/454.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/454.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/399.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/399.ogg)
 
 
 ---
