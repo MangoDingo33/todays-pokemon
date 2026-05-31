@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-05-31 14:59:28 (KST) ⏳
+⏳ 업데이트 시간: 2026-05-31 17:47:29 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 플라엣테 (ID: 670)
-**영어 이름:** Floette
+# 너트령 (ID: 598)
+**영어 이름:** Ferrothorn
 
-**타입:** 페어리
+**타입:** 풀, 강철
 
-**키:** 0.2 m
+**키:** 1.0 m
 
-**몸무게:** 0.9 kg
+**몸무게:** 110.0 kg
 
-**특성:** 플라워베일, 공생
+**특성:** 철가시, 위험예지
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/floette.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/floette.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/ferrothorn.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ferrothorn.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/670.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/670.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/598.ogg)
 
 
 ---
