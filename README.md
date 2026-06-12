@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-06-13 01:36:31 (KST) ⏳
+⏳ 업데이트 시간: 2026-06-13 03:26:39 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 두루지벌레 (ID: 824)
-**영어 이름:** Blipbug
+# 고디탱 (ID: 574)
+**영어 이름:** Gothita
 
-**타입:** 벌레
+**타입:** 에스퍼
 
 **키:** 0.4 m
 
-**몸무게:** 8.0 kg
+**몸무게:** 5.8 kg
 
-**특성:** 벌레의알림, 복안, 텔레파시
+**특성:** 통찰, 승기, 그림자밟기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/blipbug.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/blipbug.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gothita.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gothita.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/824.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/824.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/574.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/574.ogg)
 
 
 ---
