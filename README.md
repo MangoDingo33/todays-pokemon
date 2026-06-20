@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-06-20 10:49:49 (KST) ⏳
+⏳ 업데이트 시간: 2026-06-20 15:04:00 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 스태솔트 (ID: 933)
-**영어 이름:** Naclstack
+# 미꾸리 (ID: 339)
+**영어 이름:** Barboach
 
-**타입:** 바위
+**타입:** 물, 땅
 
-**키:** 0.6 m
+**키:** 0.4 m
 
-**몸무게:** 105.0 kg
+**몸무게:** 1.9 kg
 
-**특성:** 정화의소금, 옹골참, 클리어바디
+**특성:** 둔감, 위험예지, 촉촉바디
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/naclstack.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/naclstack.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/barboach.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/barboach.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/933.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/933.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/339.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/339.ogg)
 
 
 ---
