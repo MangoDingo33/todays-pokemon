@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-06-23 07:18:15 (KST) ⏳
+⏳ 업데이트 시간: 2026-06-23 08:44:26 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 링곰 (ID: 217)
-**영어 이름:** Ursaring
+# 플라베베 (ID: 669)
+**영어 이름:** Flabebe
 
-**타입:** 노말
+**타입:** 페어리
 
-**키:** 1.8 m
+**키:** 0.1 m
 
-**몸무게:** 125.8 kg
+**몸무게:** 0.1 kg
 
-**특성:** 근성, 속보, 긴장감
+**특성:** 플라워베일, 공생
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ursaring.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ursaring.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/flabebe.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/flabebe.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/217.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/217.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/669.ogg)
 
 
 ---
