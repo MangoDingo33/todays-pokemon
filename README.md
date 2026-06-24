@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-06-24 13:18:11 (KST) ⏳
+⏳ 업데이트 시간: 2026-06-24 16:53:48 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 들눈해 (ID: 948)
-**영어 이름:** Toedscool
+# 견고라스 (ID: 697)
+**영어 이름:** Tyrantrum
 
-**타입:** 땅, 풀
+**타입:** 바위, 드래곤
 
-**키:** 0.9 m
+**키:** 2.5 m
 
-**몸무게:** 33.0 kg
+**몸무게:** 270.0 kg
 
-**특성:** 균사의힘
+**특성:** 옹골찬턱, 돌머리
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/toedscool.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/toedscool.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/tyrantrum.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tyrantrum.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/948.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/948.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/697.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/697.ogg)
 
 
 ---
