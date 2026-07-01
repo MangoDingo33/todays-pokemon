@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-01 15:14:59 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-01 19:14:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 투구뿌논 (ID: 738)
-**영어 이름:** Vikavolt
+# 선인왕 (ID: 331)
+**영어 이름:** Cacnea
 
-**타입:** 벌레, 전기
+**타입:** 풀
 
-**키:** 1.5 m
+**키:** 0.4 m
 
-**몸무게:** 45.0 kg
+**몸무게:** 51.3 kg
 
-**특성:** 부유
+**특성:** 모래숨기, 저수
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/vikavolt.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vikavolt.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/cacnea.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cacnea.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/738.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/738.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/331.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/331.ogg)
 
 
 ---
