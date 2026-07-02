@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-02 22:04:21 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-03 00:24:54 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 초롱순 (ID: 969)
-**영어 이름:** Glimmet
+# 펄스멍 (ID: 836)
+**영어 이름:** Boltund
 
-**타입:** 바위, 독
+**타입:** 전기
 
-**키:** 0.7 m
+**키:** 1.0 m
 
-**몸무게:** 8.0 kg
+**몸무게:** 34.0 kg
 
-**특성:** 독치장, 부식
+**특성:** 옹골찬턱, 승기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/glimmet.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/glimmet.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/boltund.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/boltund.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/969.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/969.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/836.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/836.ogg)
 
 
 ---
