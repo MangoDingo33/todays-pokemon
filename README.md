@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-06 07:10:33 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-06 08:15:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 비리디온 (ID: 640)
-**영어 이름:** Virizion
+# 짜랑꼬 (ID: 782)
+**영어 이름:** Jangmo-O
 
-**타입:** 풀, 격투
+**타입:** 드래곤
 
-**키:** 2.0 m
+**키:** 0.6 m
 
-**몸무게:** 200.0 kg
+**몸무게:** 29.7 kg
 
-**특성:** 정의의마음
+**특성:** 방탄, 방음, 방진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/virizion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/virizion.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/640.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/640.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg)
 
 
 ---
