@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-14 19:58:19 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-14 21:09:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 절각참 (ID: 625)
-**영어 이름:** Bisharp
+# 음뱃 (ID: 714)
+**영어 이름:** Noibat
 
-**타입:** 악, 강철
+**타입:** 비행, 드래곤
 
-**키:** 1.6 m
+**키:** 0.5 m
 
-**몸무게:** 70.0 kg
+**몸무게:** 8.0 kg
 
-**특성:** 오기, 정신력, 프레셔
+**특성:** 통찰, 틈새포착, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/bisharp.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/bisharp.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/noibat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/noibat.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/625.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/625.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/714.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/714.ogg)
 
 
 ---
