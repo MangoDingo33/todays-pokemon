@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-18 08:05:04 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-18 09:00:47 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 따라큐 (ID: 778)
-**영어 이름:** Mimikyu-Disguised
+# 조타구 (ID: 1014)
+**영어 이름:** Okidogi
 
-**타입:** 고스트, 페어리
+**타입:** 독, 격투
 
-**키:** 0.2 m
+**키:** 1.8 m
 
-**몸무게:** 0.7 kg
+**몸무게:** 92.2 kg
 
-**특성:** 탈
+**특성:** 독사슬, 파수견
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1014.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1014.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1014.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1014.ogg)
 
 
 ---
