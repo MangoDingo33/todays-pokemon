@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-27 20:40:47 (KST) ⏳
+⏳ 업데이트 시간: 2026-07-27 22:56:15 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 땃쭈르 (ID: 944)
-**영어 이름:** Shroodle
+# 두두 (ID: 84)
+**영어 이름:** Doduo
 
-**타입:** 독, 노말
+**타입:** 노말, 비행
 
-**키:** 0.2 m
+**키:** 1.4 m
 
-**몸무게:** 0.7 kg
+**몸무게:** 39.2 kg
 
-**특성:** 곡예, 나쁜손버릇, 짓궂은마음
+**특성:** 도주, 일찍기상, 갈지자걸음
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/shroodle.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shroodle.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/doduo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/doduo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/944.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/944.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/84.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/84.ogg)
 
 
 ---
