@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-07-31 23:29:17 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-01 01:16:02 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 노고고치 (ID: 982)
-**영어 이름:** Dudunsparce-Two-Segment
+# 꾸꾸리 (ID: 220)
+**영어 이름:** Swinub
 
-**타입:** 노말
+**타입:** 얼음, 땅
 
-**키:** 3.6 m
+**키:** 0.4 m
 
-**몸무게:** 39.2 kg
+**몸무게:** 6.5 kg
 
-**특성:** 하늘의은총, 도주, 주눅
+**특성:** 둔감, 눈숨기, 두꺼운지방
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/982.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/swinub.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/swinub.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/982.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/982.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/220.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/220.ogg)
 
 
 ---
