@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-02 01:12:34 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-02 02:12:50 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 깨봉이 (ID: 568)
-**영어 이름:** Trubbish
+# 흔들풍손 (ID: 425)
+**영어 이름:** Drifloon
 
-**타입:** 독
+**타입:** 고스트, 비행
 
-**키:** 0.6 m
+**키:** 0.4 m
 
-**몸무게:** 31.0 kg
+**몸무게:** 1.2 kg
 
-**특성:** 악취, 점착, 유폭
+**특성:** 유폭, 곡예, 열폭주
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/trubbish.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/trubbish.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/drifloon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drifloon.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/568.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/568.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/425.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/425.ogg)
 
 
 ---
