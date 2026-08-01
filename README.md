@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-01 21:40:50 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-01 23:10:04 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 야느와르몽 (ID: 477)
-**영어 이름:** Dusknoir
+# 휠구 (ID: 544)
+**영어 이름:** Whirlipede
 
-**타입:** 고스트
+**타입:** 벌레, 독
 
-**키:** 2.2 m
+**키:** 1.2 m
 
-**몸무게:** 106.6 kg
+**몸무게:** 58.5 kg
 
-**특성:** 프레셔, 통찰
+**특성:** 독가시, 벌레의알림, 가속
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dusknoir.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dusknoir.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/whirlipede.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/whirlipede.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/477.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/477.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/544.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/544.ogg)
 
 
 ---
