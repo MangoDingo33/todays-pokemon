@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-05 18:23:01 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-05 20:32:48 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 베라카스 (ID: 954)
-**영어 이름:** Rabsca
+# 글라이온 (ID: 472)
+**영어 이름:** Gliscor
 
-**타입:** 벌레, 에스퍼
+**타입:** 땅, 비행
 
-**키:** 0.3 m
+**키:** 2.0 m
 
-**몸무게:** 3.5 kg
+**몸무게:** 42.5 kg
 
-**특성:** 싱크로, 텔레파시
+**특성:** 괴력집게, 모래숨기, 포이즌힐
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/rabsca.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/rabsca.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gliscor.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gliscor.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/472.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/472.ogg)
 
 
 ---
