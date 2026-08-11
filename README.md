@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-11 21:31:40 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-11 22:57:09 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 화강돌 (ID: 442)
-**영어 이름:** Spiritomb
+# 콘팡 (ID: 48)
+**영어 이름:** Venonat
 
-**타입:** 고스트, 악
+**타입:** 벌레, 독
 
 **키:** 1.0 m
 
-**몸무게:** 108.0 kg
+**몸무게:** 30.0 kg
 
-**특성:** 프레셔, 틈새포착
+**특성:** 복안, 색안경, 도주
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/spiritomb.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/spiritomb.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/venonat.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/venonat.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/442.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/442.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/48.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/48.ogg)
 
 
 ---
