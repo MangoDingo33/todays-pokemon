@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-12 20:21:15 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-12 21:02:46 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 피카츄 (ID: 25)
-**영어 이름:** Pikachu
+# 이어롤 (ID: 427)
+**영어 이름:** Buneary
 
-**타입:** 전기
+**타입:** 노말
 
 **키:** 0.4 m
 
-**몸무게:** 6.0 kg
+**몸무게:** 5.5 kg
 
-**특성:** 정전기, 피뢰침
+**특성:** 도주, 서투름, 유연
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pikachu.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/buneary.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/buneary.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/25.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/25.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/427.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/427.ogg)
 
 
 ---
