@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-16 19:30:18 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-16 19:49:20 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 악비아르 (ID: 553)
-**영어 이름:** Krookodile
+# 아보크 (ID: 24)
+**영어 이름:** Arbok
 
-**타입:** 땅, 악
+**타입:** 독
 
-**키:** 1.5 m
+**키:** 3.5 m
 
-**몸무게:** 96.3 kg
+**몸무게:** 65.0 kg
 
-**특성:** 위협, 자기과신, 분노의경혈
+**특성:** 위협, 탈피, 긴장감
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/krookodile.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/krookodile.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/arbok.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/arbok.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/553.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/24.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/24.ogg)
 
 
 ---
