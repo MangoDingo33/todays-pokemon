@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-17 05:58:25 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-17 06:17:27 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 블레이범 (ID: 157)
-**영어 이름:** Typhlosion
+# 겟핸보숭 (ID: 424)
+**영어 이름:** Ambipom
 
-**타입:** 불꽃
+**타입:** 노말
 
-**키:** 1.7 m
+**키:** 1.2 m
 
-**몸무게:** 79.5 kg
+**몸무게:** 20.3 kg
 
-**특성:** 맹화, 타오르는불꽃
+**특성:** 테크니션, 픽업, 스킬링크
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/typhlosion.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/typhlosion.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/ambipom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ambipom.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/424.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/424.ogg)
 
 
 ---
