@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-19 04:08:22 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-19 04:35:30 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 켄타로스 (ID: 128)
-**영어 이름:** Tauros
+# 드래캄 (ID: 691)
+**영어 이름:** Dragalge
 
-**타입:** 노말
+**타입:** 독, 드래곤
 
-**키:** 1.4 m
+**키:** 1.8 m
 
-**몸무게:** 88.4 kg
+**몸무게:** 81.5 kg
 
-**특성:** 위협, 분노의경혈, 우격다짐
+**특성:** 독가시, 독수, 적응력
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tauros.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tauros.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dragalge.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dragalge.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/691.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/691.ogg)
 
 
 ---
