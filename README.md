@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-21 00:44:24 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-21 01:04:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 드래런치 (ID: 886)
-**영어 이름:** Drakloak
+# 셀러 (ID: 90)
+**영어 이름:** Shellder
 
-**타입:** 드래곤, 고스트
+**타입:** 물
 
-**키:** 1.4 m
+**키:** 0.3 m
 
-**몸무게:** 11.0 kg
+**몸무게:** 4.0 kg
 
-**특성:** 클리어바디, 틈새포착, 저주받은바디
+**특성:** 조가비갑옷, 스킬링크, 방진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/drakloak.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/drakloak.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/shellder.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shellder.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/886.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/886.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/90.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/90.ogg)
 
 
 ---
