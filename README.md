@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-20 22:58:15 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-20 23:32:42 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 카스쿤 (ID: 268)
-**영어 이름:** Cascoon
+# 엘레이드 (ID: 475)
+**영어 이름:** Gallade
 
-**타입:** 벌레
+**타입:** 에스퍼, 격투
 
-**키:** 0.7 m
+**키:** 1.6 m
 
-**몸무게:** 11.5 kg
+**몸무게:** 52.0 kg
 
-**특성:** 탈피
+**특성:** 불굴의마음, 정의의마음, 예리함
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/cascoon.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cascoon.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gallade.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gallade.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/268.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/268.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/475.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/475.ogg)
 
 
 ---
