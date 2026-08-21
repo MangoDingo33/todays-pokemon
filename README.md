@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-22 08:37:04 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-22 08:54:32 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 루나톤 (ID: 337)
-**영어 이름:** Lunatone
+# 칼라마네로 (ID: 687)
+**영어 이름:** Malamar
 
-**타입:** 바위, 에스퍼
+**타입:** 악, 에스퍼
 
-**키:** 1.0 m
+**키:** 1.5 m
 
-**몸무게:** 168.0 kg
+**몸무게:** 47.0 kg
 
-**특성:** 부유
+**특성:** 흡반, 심술꾸러기, 틈새포착
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/lunatone.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/lunatone.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/malamar.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/malamar.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/337.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/337.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/687.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/687.ogg)
 
 
 ---
