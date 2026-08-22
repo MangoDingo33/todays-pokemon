@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-23 04:01:11 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-23 04:26:22 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 레돔벌레 (ID: 825)
-**영어 이름:** Dottler
+# 토쇠골 (ID: 533)
+**영어 이름:** Gurdurr
 
-**타입:** 벌레, 에스퍼
+**타입:** 격투
 
-**키:** 0.4 m
+**키:** 1.2 m
 
-**몸무게:** 19.5 kg
+**몸무게:** 40.0 kg
 
-**특성:** 복안, 벌레의알림, 텔레파시
+**특성:** 근성, 철주먹, 우격다짐
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/dottler.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dottler.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/gurdurr.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/gurdurr.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/825.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/825.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg)
 
 
 ---
