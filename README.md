@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-23 12:11:50 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-23 12:58:06 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 어리짱 (ID: 957)
-**영어 이름:** Tinkatink
+# 프리져 (ID: 144)
+**영어 이름:** Articuno
 
-**타입:** 페어리, 강철
+**타입:** 얼음, 비행
 
-**키:** 0.4 m
+**키:** 1.7 m
 
-**몸무게:** 8.9 kg
+**몸무게:** 55.4 kg
 
-**특성:** 마이페이스, 틀깨기, 나쁜손버릇
+**특성:** 프레셔, 눈숨기
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/tinkatink.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/tinkatink.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/articuno.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/articuno.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/957.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/957.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/144.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/144.ogg)
 
 
 ---
