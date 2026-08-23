@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-24 08:31:19 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-24 08:47:37 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 모래털가죽 (ID: 989)
-**영어 이름:** Sandy-Shocks
+# 소곤룡 (ID: 293)
+**영어 이름:** Whismur
 
-**타입:** 전기, 땅
+**타입:** 노말
 
-**키:** 2.3 m
+**키:** 0.6 m
 
-**몸무게:** 60.0 kg
+**몸무게:** 16.3 kg
 
-**특성:** 고대활성
+**특성:** 방음, 주눅
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/989.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/whismur.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/whismur.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/989.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/989.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg)
 
 
 ---
