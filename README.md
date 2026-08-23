@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-08-24 04:52:19 (KST) ⏳
+⏳ 업데이트 시간: 2026-08-24 05:00:45 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 소곤룡 (ID: 293)
-**영어 이름:** Whismur
+# 대검귀 (ID: 503)
+**영어 이름:** Samurott
 
-**타입:** 노말
+**타입:** 물
 
-**키:** 0.6 m
+**키:** 1.5 m
 
-**몸무게:** 16.3 kg
+**몸무게:** 94.6 kg
 
-**특성:** 방음, 주눅
+**특성:** 급류, 조가비갑옷
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/whismur.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/whismur.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/samurott.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/samurott.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/503.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/503.ogg)
 
 
 ---
