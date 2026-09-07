@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-09-07 09:55:37 (KST) ⏳
+⏳ 업데이트 시간: 2026-09-07 14:27:01 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 릴리요 (ID: 346)
-**영어 이름:** Cradily
+# 카푸나비나 (ID: 786)
+**영어 이름:** Tapu-Lele
 
-**타입:** 바위, 풀
+**타입:** 에스퍼, 페어리
 
-**키:** 1.5 m
+**키:** 1.2 m
 
-**몸무게:** 60.4 kg
+**몸무게:** 18.6 kg
 
-**특성:** 흡반, 마중물
+**특성:** 사이코메이커, 텔레파시
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/cradily.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/cradily.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/786.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/346.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/346.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/786.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/786.ogg)
 
 
 ---
