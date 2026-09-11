@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-09-11 18:47:08 (KST) ⏳
+⏳ 업데이트 시간: 2026-09-11 22:51:07 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 겟핸보숭 (ID: 424)
-**영어 이름:** Ambipom
+# 니드런♂ (ID: 32)
+**영어 이름:** Nidoran-M
 
-**타입:** 노말
+**타입:** 독
 
-**키:** 1.2 m
+**키:** 0.5 m
 
-**몸무게:** 20.3 kg
+**몸무게:** 9.0 kg
 
-**특성:** 테크니션, 픽업, 스킬링크
+**특성:** 독가시, 투쟁심, 의욕
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/ambipom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/ambipom.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/32.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/424.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/424.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/32.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/32.ogg)
 
 
 ---
