@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-09-30 17:44:29 (KST) ⏳
+⏳ 업데이트 시간: 2026-10-01 00:20:24 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 카푸꼬꼬꼭 (ID: 785)
-**영어 이름:** Tapu-Koko
+# 비브라바 (ID: 329)
+**영어 이름:** Vibrava
 
-**타입:** 전기, 페어리
+**타입:** 땅, 드래곤
 
-**키:** 1.8 m
+**키:** 1.1 m
 
-**몸무게:** 20.5 kg
+**몸무게:** 15.3 kg
 
-**특성:** 일렉트릭메이커, 텔레파시
+**특성:** 부유
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/vibrava.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/vibrava.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/329.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/329.ogg)
 
 
 ---
