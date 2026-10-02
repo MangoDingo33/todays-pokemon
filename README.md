@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-10-02 06:06:22 (KST) ⏳
+⏳ 업데이트 시간: 2026-10-02 09:41:57 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 케오퍼스 (ID: 853)
-**영어 이름:** Grapploct
+# 깨물부기 (ID: 833)
+**영어 이름:** Chewtle
 
-**타입:** 격투
+**타입:** 물
 
-**키:** 1.6 m
+**키:** 0.3 m
 
-**몸무게:** 39.0 kg
+**몸무게:** 8.5 kg
 
-**특성:** 유연, 테크니션
+**특성:** 옹골찬턱, 조가비갑옷, 쓱쓱
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/grapploct.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/grapploct.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/chewtle.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/chewtle.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/853.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/853.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/833.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/833.ogg)
 
 
 ---
