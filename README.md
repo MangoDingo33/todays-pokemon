@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-10-03 09:45:44 (KST) ⏳
+⏳ 업데이트 시간: 2026-10-03 14:46:56 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 라우드본 (ID: 911)
-**영어 이름:** Skeledirge
+# 메테노 (ID: 774)
+**영어 이름:** Minior-Red-Meteor
 
-**타입:** 불꽃, 고스트
+**타입:** 바위, 비행
 
-**키:** 1.6 m
+**키:** 0.3 m
 
-**몸무게:** 326.5 kg
+**몸무게:** 40.0 kg
 
-**특성:** 맹화, 천진
+**특성:** 리밋실드
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/skeledirge.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/skeledirge.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/774.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/911.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/911.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/774.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/774.ogg)
 
 
 ---
