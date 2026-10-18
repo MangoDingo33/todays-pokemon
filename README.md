@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-10-18 18:56:42 (KST) ⏳
+⏳ 업데이트 시간: 2026-10-18 22:42:35 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 피죤 (ID: 17)
-**영어 이름:** Pidgeotto
+# 다탱구 (ID: 275)
+**영어 이름:** Shiftry
 
-**타입:** 노말, 비행
+**타입:** 풀, 악
 
-**키:** 1.1 m
+**키:** 1.3 m
 
-**몸무게:** 30.0 kg
+**몸무게:** 59.6 kg
 
-**특성:** 날카로운눈, 갈지자걸음, 부풀린가슴
+**특성:** 엽록소, 바람타기, 나쁜손버릇
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/pidgeotto.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/pidgeotto.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/shiftry.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/shiftry.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/17.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/17.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/275.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/275.ogg)
 
 
 ---
