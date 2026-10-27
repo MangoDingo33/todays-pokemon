@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-10-27 10:59:44 (KST) ⏳
+⏳ 업데이트 시간: 2026-10-27 16:27:00 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 곤율랭 (ID: 559)
-**영어 이름:** Scraggy
+# 짜랑꼬 (ID: 782)
+**영어 이름:** Jangmo-O
 
-**타입:** 악, 격투
+**타입:** 드래곤
 
 **키:** 0.6 m
 
-**몸무게:** 11.8 kg
+**몸무게:** 29.7 kg
 
-**특성:** 탈피, 자기과신, 위협
+**특성:** 방탄, 방음, 방진
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/scraggy.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/scraggy.gif" width="200"> |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png" width="200"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/559.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/559.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg)
 
 
 ---
