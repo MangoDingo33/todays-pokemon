@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-11-01 05:30:00 (KST) ⏳
+⏳ 업데이트 시간: 2026-11-01 08:32:51 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 파크로우 (ID: 822)
-**영어 이름:** Corvisquire
+# 미끄네일 (ID: 705)
+**영어 이름:** Sliggoo
 
-**타입:** 비행
+**타입:** 드래곤
 
 **키:** 0.8 m
 
-**몸무게:** 16.0 kg
+**몸무게:** 17.5 kg
 
-**특성:** 날카로운눈, 긴장감, 부풀린가슴
+**특성:** 초식, 촉촉바디, 미끈미끈
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/corvisquire.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/corvisquire.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/sliggoo.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/sliggoo.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg)
 
 
 ---
