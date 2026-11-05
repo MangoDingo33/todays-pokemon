@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-11-05 11:47:10 (KST) ⏳
+⏳ 업데이트 시간: 2026-11-05 18:52:09 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 네이티 (ID: 177)
-**영어 이름:** Natu
+# 하데리어 (ID: 507)
+**영어 이름:** Herdier
 
-**타입:** 에스퍼, 비행
+**타입:** 노말
 
-**키:** 0.2 m
+**키:** 0.9 m
 
-**몸무게:** 2.0 kg
+**몸무게:** 14.7 kg
 
-**특성:** 싱크로, 일찍기상, 매직미러
+**특성:** 위협, 모래헤치기, 배짱
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/natu.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/natu.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/herdier.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/herdier.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/507.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/507.ogg)
 
 
 ---
