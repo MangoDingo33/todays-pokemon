@@ -1,28 +1,28 @@
 
-⏳ 업데이트 시간: 2026-11-07 10:42:20 (KST) ⏳
+⏳ 업데이트 시간: 2026-11-07 16:46:31 (KST) ⏳
 
 🤖 자동 업데이트 봇에 의해 관리됩니다! 🤖
 
 ---
 
-# 부르르룸 (ID: 966)
-**영어 이름:** Revavroom
+# 망나뇽 (ID: 149)
+**영어 이름:** Dragonite
 
-**타입:** 강철, 독
+**타입:** 드래곤, 비행
 
-**키:** 1.8 m
+**키:** 2.2 m
 
-**몸무게:** 120.0 kg
+**몸무게:** 210.0 kg
 
-**특성:** 방진, 필터
+**특성:** 정신력, 멀티스케일
 
 ## 공식 일러스트
-![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png)
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png)
 | 기본 | 이로치 |
 |:----:|:------:|
-| <img src="http://play.pokemonshowdown.com/sprites/ani/revavroom.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/revavroom.gif" width="200"> |
+| <img src="http://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="200"> | <img src="http://play.pokemonshowdown.com/sprites/ani-shiny/dragonite.gif" width="200"> |
 
-**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/966.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/966.ogg)
+**울음소리:**<br><audio controls src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg"></audio><br> [링크(다운로드 될 수도)](https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg)
 
 
 ---
